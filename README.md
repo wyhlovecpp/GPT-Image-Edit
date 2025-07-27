@@ -18,7 +18,7 @@
 1.Set up environment
 
 ```bash
-# git clone https://github.com/PKU-YuanGroup/UniWorld-V1
+git clone https://github.com/wyhlovecpp/GPT-Image-Edit.git
 cd GPT-Image-Edit
 conda create -n univa python=3.10 -y
 conda activate univa
@@ -89,7 +89,7 @@ data/gpt-edit/ultraedit,training_json/ultraedit_gpt.json,false
 
 <details><summary>Image Editing</summary><p>
     
-- [UCSC-VLAA/GPT-Image-Edit-1.5M](https://huggingface.co/datasets/UCSC-VLAA/GPT-Image-Edit-1.5M)[5T storage usage.]
+- [UCSC-VLAA/GPT-Image-Edit-1.5M](https://huggingface.co/datasets/UCSC-VLAA/GPT-Image-Edit-1.5M) [5T storage usage.]
 
 </p></details>
 
