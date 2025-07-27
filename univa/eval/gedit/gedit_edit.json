@@ -1,0 +1,3022 @@
+{
+    "4a7d36259ad94d238a6e7e7e0bd6b643": {
+        "prompt": "Change the background to a city street.",
+        "id": "fullset/background_change/en/4a7d36259ad94d238a6e7e7e0bd6b643.png",
+        "edit_type": "background_change"
+    },
+    "05040717fb0f2ac80083ef81ee206ace": {
+        "prompt": "Change the background to a forest.",
+        "id": "fullset/background_change/en/05040717fb0f2ac80083ef81ee206ace.png",
+        "edit_type": "background_change"
+    },
+    "a76982639289faf26edf18a86d68ebf8": {
+        "prompt": "Change the background to a green grassland.",
+        "id": "fullset/background_change/en/a76982639289faf26edf18a86d68ebf8.png",
+        "edit_type": "background_change"
+    },
+    "57288ae252f43831390e2121a84b1780": {
+        "prompt": "Adjust the background to a beach.",
+        "id": "fullset/background_change/en/57288ae252f43831390e2121a84b1780.png",
+        "edit_type": "background_change"
+    },
+    "bf2905a10d5da2ad897ef159eadc1821": {
+        "prompt": "Change the background to a forest.",
+        "id": "fullset/background_change/en/bf2905a10d5da2ad897ef159eadc1821.png",
+        "edit_type": "background_change"
+    },
+    "9b1b4768e51e99840785cc5b0f05ce8f": {
+        "prompt": "Adjust the background to a garden.",
+        "id": "fullset/background_change/en/9b1b4768e51e99840785cc5b0f05ce8f.png",
+        "edit_type": "background_change"
+    },
+    "2154828b5213504b358697eac664f3c0": {
+        "prompt": "Adjust the background to a forest.",
+        "id": "fullset/background_change/en/2154828b5213504b358697eac664f3c0.png",
+        "edit_type": "background_change"
+    },
+    "544c9de690f114560ab4e28f6c6bbf44": {
+        "prompt": "Adjust the background to a concrete ground.",
+        "id": "fullset/background_change/en/544c9de690f114560ab4e28f6c6bbf44.png",
+        "edit_type": "background_change"
+    },
+    "c44b1ef6dd9d2d1f0e1168b848af3ca6": {
+        "prompt": "Adjust the background to a snowy field.",
+        "id": "fullset/background_change/en/c44b1ef6dd9d2d1f0e1168b848af3ca6.png",
+        "edit_type": "background_change"
+    },
+    "ce13a98a496fe366099ea1d9894bd1a8": {
+        "prompt": "Change the background to high mountains.",
+        "id": "fullset/background_change/en/ce13a98a496fe366099ea1d9894bd1a8.png",
+        "edit_type": "background_change"
+    },
+    "ba8c75293f0f60353f6afb4b76e7eda0": {
+        "prompt": "Adjust the background to the ocean.",
+        "id": "fullset/background_change/en/ba8c75293f0f60353f6afb4b76e7eda0.png",
+        "edit_type": "background_change"
+    },
+    "f17eaba1650c7320694dd8a5493361b8": {
+        "prompt": "Adjust the background to a glass wall.",
+        "id": "fullset/background_change/en/f17eaba1650c7320694dd8a5493361b8.png",
+        "edit_type": "background_change"
+    },
+    "b53d1d3a0534e61965bfa36b30cf1fb8": {
+        "prompt": "Change the background to a city street.",
+        "id": "fullset/background_change/en/b53d1d3a0534e61965bfa36b30cf1fb8.png",
+        "edit_type": "background_change"
+    },
+    "5879c4a5f276467de24f47fc927d482f": {
+        "prompt": "Adjust the background to a desert.",
+        "id": "fullset/background_change/en/5879c4a5f276467de24f47fc927d482f.png",
+        "edit_type": "background_change"
+    },
+    "e88625bb04f622bf73a13e76e47c405b": {
+        "prompt": "Adjust the background to a city.",
+        "id": "fullset/background_change/en/e88625bb04f622bf73a13e76e47c405b.png",
+        "edit_type": "background_change"
+    },
+    "c29e28b92d10e4b4beb0a6b9517c215a": {
+        "prompt": "Change the background to the entrance of a Japanese shrine.",
+        "id": "fullset/background_change/en/c29e28b92d10e4b4beb0a6b9517c215a.png",
+        "edit_type": "background_change"
+    },
+    "9077c3f99adb28dcdea8c9b877662e5e": {
+        "prompt": "Change the background to an indoor setting.",
+        "id": "fullset/background_change/en/9077c3f99adb28dcdea8c9b877662e5e.png",
+        "edit_type": "background_change"
+    },
+    "2c1d322cb7c60b1de8d0a17cc97b7c1b": {
+        "prompt": "Please generate an ID photo of me based on this picture.",
+        "id": "fullset/background_change/en/2c1d322cb7c60b1de8d0a17cc97b7c1b.png",
+        "edit_type": "background_change"
+    },
+    "0f385bcff859231789a9c978cafecc2a": {
+        "prompt": "Change the background to a starry sky.",
+        "id": "fullset/background_change/en/0f385bcff859231789a9c978cafecc2a.png",
+        "edit_type": "background_change"
+    },
+    "f7d391ffa970e18fc8393888295899f8": {
+        "prompt": "Change the background to the ocean.",
+        "id": "fullset/background_change/en/f7d391ffa970e18fc8393888295899f8.png",
+        "edit_type": "background_change"
+    },
+    "99fd6314476a4af7cd75dd0a377f1ae5": {
+        "prompt": "Modify this photo to be set in a desert.",
+        "id": "fullset/background_change/en/99fd6314476a4af7cd75dd0a377f1ae5.png",
+        "edit_type": "background_change"
+    },
+    "641cffb62276b86f154dfe64704b0411": {
+        "prompt": "Change the background to a lingerie store, in a panoramic view, keeping the person in the original image unchanged.",
+        "id": "fullset/background_change/en/641cffb62276b86f154dfe64704b0411.png",
+        "edit_type": "background_change"
+    },
+    "42072aa83c4cbeed62276c45e61f42a2": {
+        "prompt": "Change the background to a spring park while keeping the person unchanged.",
+        "id": "fullset/background_change/en/42072aa83c4cbeed62276c45e61f42a2.png",
+        "edit_type": "background_change"
+    },
+    "806f4a1d864636f48a994032447bb5a8": {
+        "prompt": "Remove the background for me.",
+        "id": "fullset/background_change/en/806f4a1d864636f48a994032447bb5a8.png",
+        "edit_type": "background_change"
+    },
+    "165533290b7c205b0dd34d1053716dcb": {
+        "prompt": "Replace the sky in this image with blue skies and white clouds.",
+        "id": "fullset/background_change/en/165533290b7c205b0dd34d1053716dcb.png",
+        "edit_type": "background_change"
+    },
+    "da491710942a88d0dd2059ec7d7e9ee6": {
+        "prompt": "Change the background of this image to Tiananmen Square.",
+        "id": "fullset/background_change/en/da491710942a88d0dd2059ec7d7e9ee6.png",
+        "edit_type": "background_change"
+    },
+    "6357040e1522d2a852370b22e2b95300": {
+        "prompt": "Change the background to Mount Everest.",
+        "id": "fullset/background_change/en/6357040e1522d2a852370b22e2b95300.png",
+        "edit_type": "background_change"
+    },
+    "05f80c40aa6ffd99a171a49fa43f7472": {
+        "prompt": "Edit the background to be Shanghai's Bund.",
+        "id": "fullset/background_change/en/05f80c40aa6ffd99a171a49fa43f7472.png",
+        "edit_type": "background_change"
+    },
+    "d5ca6ec7c3a7e2091afdbb852beb67a0": {
+        "prompt": "Change the background to a cartoon park.",
+        "id": "fullset/background_change/en/d5ca6ec7c3a7e2091afdbb852beb67a0.png",
+        "edit_type": "background_change"
+    },
+    "8ba1bc01568c11eb76e62b73a24b337f": {
+        "prompt": "Change the background to the sea.",
+        "id": "fullset/background_change/en/8ba1bc01568c11eb76e62b73a24b337f.png",
+        "edit_type": "background_change"
+    },
+    "dae31be23abd02a042bbf9c3a0a2ed80": {
+        "prompt": "Replace the background with a sunny landscape, ensuring the person's appearance and posture remain unchanged, with golden sunlight shining on trees and grass.",
+        "id": "fullset/background_change/en/dae31be23abd02a042bbf9c3a0a2ed80.png",
+        "edit_type": "background_change"
+    },
+    "218747d7f3c9ce2eaef0ea3083362626": {
+        "prompt": "Change the background to a nighttime cityscape.",
+        "id": "fullset/background_change/en/218747d7f3c9ce2eaef0ea3083362626.png",
+        "edit_type": "background_change"
+    },
+    "fe6029dda8b7663108393a7fbd5a7a48": {
+        "prompt": "Modify the background to be filled with blooming flowers.",
+        "id": "fullset/background_change/en/fe6029dda8b7663108393a7fbd5a7a48.png",
+        "edit_type": "background_change"
+    },
+    "5f04fd7528d090db1347c36c9e1ca89f": {
+        "prompt": "Please change the background wall to a green forest with high mountains, bright sunlight, and distant flying birds.",
+        "id": "fullset/background_change/en/5f04fd7528d090db1347c36c9e1ca89f.png",
+        "edit_type": "background_change"
+    },
+    "267512f5681adb18375d3efad1f10228": {
+        "prompt": "Can you remove the background from this image? Only keep the Superman figure.",
+        "id": "fullset/background_change/en/267512f5681adb18375d3efad1f10228.png",
+        "edit_type": "background_change"
+    },
+    "1e6d1fa7e02689ee2409aa686132cab1": {
+        "prompt": "Change to a sorrowful background.",
+        "id": "fullset/background_change/en/1e6d1fa7e02689ee2409aa686132cab1.png",
+        "edit_type": "background_change"
+    },
+    "1008256303fc5fc6ef56efccf12da5da": {
+        "prompt": "Replace the background with a soccer field.",
+        "id": "fullset/background_change/en/1008256303fc5fc6ef56efccf12da5da.png",
+        "edit_type": "background_change"
+    },
+    "23e79f182ac8892ca79e343e987f147c": {
+        "prompt": "Change the background to the interior of a spaceship.",
+        "id": "fullset/background_change/en/23e79f182ac8892ca79e343e987f147c.png",
+        "edit_type": "background_change"
+    },
+    "09e1f235d3d395c3aff0fd36ec3dd034": {
+        "prompt": "Add some snow to the background.",
+        "id": "fullset/background_change/en/09e1f235d3d395c3aff0fd36ec3dd034.png",
+        "edit_type": "background_change"
+    },
+    "214f8945db17cd0bf5c4b043408de0d0": {
+        "prompt": "Change the background of this photo to a traditional Chinese landscape painting.",
+        "id": "fullset/background_change/en/214f8945db17cd0bf5c4b043408de0d0.png",
+        "edit_type": "background_change"
+    },
+    "0d6038e1736440c2fb8384b4bf495e13": {
+        "prompt": "change the color of umbrellas to brown",
+        "id": "fullset/color_alter/en/0d6038e1736440c2fb8384b4bf495e13.png",
+        "edit_type": "color_alter"
+    },
+    "981afb942cdf3cbacf7614f47ff21b2d": {
+        "prompt": "change the color of goat to yellow",
+        "id": "fullset/color_alter/en/981afb942cdf3cbacf7614f47ff21b2d.png",
+        "edit_type": "color_alter"
+    },
+    "61c156a2c97fee9424bbb0f13fa2c5f8": {
+        "prompt": "change the color of fire hydrant to lavender",
+        "id": "fullset/color_alter/en/61c156a2c97fee9424bbb0f13fa2c5f8.png",
+        "edit_type": "color_alter"
+    },
+    "174b49f45ca4ff5d1d3ea06096b78e57": {
+        "prompt": "change the color of elephant to pink",
+        "id": "fullset/color_alter/en/174b49f45ca4ff5d1d3ea06096b78e57.png",
+        "edit_type": "color_alter"
+    },
+    "f437c7392b76ded921a0abc243f81290": {
+        "prompt": "change the color of couch to yellow",
+        "id": "fullset/color_alter/en/f437c7392b76ded921a0abc243f81290.png",
+        "edit_type": "color_alter"
+    },
+    "fe29684864bbb7bd408bf2235acdfa4a": {
+        "prompt": "change the color of horses to violet",
+        "id": "fullset/color_alter/en/fe29684864bbb7bd408bf2235acdfa4a.png",
+        "edit_type": "color_alter"
+    },
+    "a4ca581574347248e1762c4987c931aa": {
+        "prompt": "Alter the color of bus to lime",
+        "id": "fullset/color_alter/en/a4ca581574347248e1762c4987c931aa.png",
+        "edit_type": "color_alter"
+    },
+    "00644e09e285f614bbfae5883328b4df": {
+        "prompt": "alter the color of the mirror frame to orange.",
+        "id": "fullset/color_alter/en/00644e09e285f614bbfae5883328b4df.png",
+        "edit_type": "color_alter"
+    },
+    "fb71870e760822d8674699ceb7034449": {
+        "prompt": "alter the color of plane to pink",
+        "id": "fullset/color_alter/en/fb71870e760822d8674699ceb7034449.png",
+        "edit_type": "color_alter"
+    },
+    "4e80301c1139c647487f06abf0596e0d": {
+        "prompt": "change the color of bear to black",
+        "id": "fullset/color_alter/en/4e80301c1139c647487f06abf0596e0d.png",
+        "edit_type": "color_alter"
+    },
+    "f32d0e13e862622da612225a17b9db2c": {
+        "prompt": "change the color of jacket to purple",
+        "id": "fullset/color_alter/en/f32d0e13e862622da612225a17b9db2c.png",
+        "edit_type": "color_alter"
+    },
+    "de24af54e090d3a53ca853945816f0eb": {
+        "prompt": "change the color of sheep to purple",
+        "id": "fullset/color_alter/en/de24af54e090d3a53ca853945816f0eb.png",
+        "edit_type": "color_alter"
+    },
+    "c66920936a630590e1328a56b2d6f08c": {
+        "prompt": "change the color of man to pink",
+        "id": "fullset/color_alter/en/c66920936a630590e1328a56b2d6f08c.png",
+        "edit_type": "color_alter"
+    },
+    "eaec3869433bbce38928002406a3580e": {
+        "prompt": "alter the color of clocks to brown",
+        "id": "fullset/color_alter/en/eaec3869433bbce38928002406a3580e.png",
+        "edit_type": "color_alter"
+    },
+    "bfdbf8372bc32e04bf6d6d0e692fdbf4": {
+        "prompt": "change the color of bird to tan",
+        "id": "fullset/color_alter/en/bfdbf8372bc32e04bf6d6d0e692fdbf4.png",
+        "edit_type": "color_alter"
+    },
+    "41fbe7550d337d07d030b308f2099d1f": {
+        "prompt": "alter the color of doughnut to silver",
+        "id": "fullset/color_alter/en/41fbe7550d337d07d030b308f2099d1f.png",
+        "edit_type": "color_alter"
+    },
+    "f75869d17b9c7a8770ad0658843bed85": {
+        "prompt": "change the color of suit cases to silver",
+        "id": "fullset/color_alter/en/f75869d17b9c7a8770ad0658843bed85.png",
+        "edit_type": "color_alter"
+    },
+    "aa027d2c15403d4027f71ea4da0a93f1": {
+        "prompt": "turn the color of dog to pink",
+        "id": "fullset/color_alter/en/aa027d2c15403d4027f71ea4da0a93f1.png",
+        "edit_type": "color_alter"
+    },
+    "b94ccee6f986cf0fddb523eaae04bdfa": {
+        "prompt": "change the color of shirt to gray",
+        "id": "fullset/color_alter/en/b94ccee6f986cf0fddb523eaae04bdfa.png",
+        "edit_type": "color_alter"
+    },
+    "3b496f697bda6811d4e0d1c5d618d6b8": {
+        "prompt": "change the color of cake to green",
+        "id": "fullset/color_alter/en/3b496f697bda6811d4e0d1c5d618d6b8.png",
+        "edit_type": "color_alter"
+    },
+    "3213cacb8b48889d0b13a019248528f5": {
+        "prompt": "Change the tie to black.",
+        "id": "fullset/color_alter/en/3213cacb8b48889d0b13a019248528f5.png",
+        "edit_type": "color_alter"
+    },
+    "875cd6dbdbcc7a153cf1f62bb101a9e0": {
+        "prompt": "Change the car body to a sports car style, and make it purple.",
+        "id": "fullset/color_alter/en/875cd6dbdbcc7a153cf1f62bb101a9e0.png",
+        "edit_type": "color_alter"
+    },
+    "60f8efd12b9e6e1db076d0ce71592eed": {
+        "prompt": "Change this image to a white background.",
+        "id": "fullset/color_alter/en/60f8efd12b9e6e1db076d0ce71592eed.png",
+        "edit_type": "color_alter"
+    },
+    "43bcfbd5afb5d12f74b43e33f13559f8": {
+        "prompt": "Change the car body color to blue.",
+        "id": "fullset/color_alter/en/43bcfbd5afb5d12f74b43e33f13559f8.png",
+        "edit_type": "color_alter"
+    },
+    "69d1ef2ac7a987ce31e0aa2d9e96beea": {
+        "prompt": "Change the tablecloth color to bright red.",
+        "id": "fullset/color_alter/en/69d1ef2ac7a987ce31e0aa2d9e96beea.png",
+        "edit_type": "color_alter"
+    },
+    "a70494ecea4bb3610fe41e5e5efe1033": {
+        "prompt": "Modify this image, changing the wall color to dark gray.",
+        "id": "fullset/color_alter/en/a70494ecea4bb3610fe41e5e5efe1033.png",
+        "edit_type": "color_alter"
+    },
+    "bc659e44391c92449841e3cd72dcd17b": {
+        "prompt": "Make her hair shorter and darker, black.",
+        "id": "fullset/color_alter/en/bc659e44391c92449841e3cd72dcd17b.png",
+        "edit_type": "color_alter"
+    },
+    "37c16adc232e505fc6f0d6747d10e8f1": {
+        "prompt": "Change the color of the stockings.",
+        "id": "fullset/color_alter/en/37c16adc232e505fc6f0d6747d10e8f1.png",
+        "edit_type": "color_alter"
+    },
+    "d0f17abfafec6172c241aa7ef30278a0": {
+        "prompt": "Change the bed curtain color to dark gray.",
+        "id": "fullset/color_alter/en/d0f17abfafec6172c241aa7ef30278a0.png",
+        "edit_type": "color_alter"
+    },
+    "8c541c8aaed6d5a8eb2d86162d39d01b": {
+        "prompt": "Change the background of the image to light sea color, with a gold border.",
+        "id": "fullset/color_alter/en/8c541c8aaed6d5a8eb2d86162d39d01b.png",
+        "edit_type": "color_alter"
+    },
+    "104b3d9a195e2d012f07aa18a286c487": {
+        "prompt": "Invert the colors of the image.",
+        "id": "fullset/color_alter/en/104b3d9a195e2d012f07aa18a286c487.png",
+        "edit_type": "color_alter"
+    },
+    "65e5510e9ed8036376e16afe77f8860e": {
+        "prompt": "Change the hair of the person in the photo to yellow.",
+        "id": "fullset/color_alter/en/65e5510e9ed8036376e16afe77f8860e.png",
+        "edit_type": "color_alter"
+    },
+    "87e9e81f29177023a7b988b5557d5d3d": {
+        "prompt": "Change this bag to red.",
+        "id": "fullset/color_alter/en/87e9e81f29177023a7b988b5557d5d3d.png",
+        "edit_type": "color_alter"
+    },
+    "90c511de3025169322c026d5f7ed209b": {
+        "prompt": "Adjust this to a white background ID photo.",
+        "id": "fullset/color_alter/en/90c511de3025169322c026d5f7ed209b.png",
+        "edit_type": "color_alter"
+    },
+    "d87fe55d649a02fa15881364ab671351": {
+        "prompt": "Retouch this photo, making the hair platinum blonde, improving the hairstyle at the ends, and making the fireworks more brilliant and colorful.",
+        "id": "fullset/color_alter/en/d87fe55d649a02fa15881364ab671351.png",
+        "edit_type": "color_alter"
+    },
+    "4023c8e2e8a992a6768b47f1946d0027": {
+        "prompt": "Can you change the wall color to yellow?",
+        "id": "fullset/color_alter/en/4023c8e2e8a992a6768b47f1946d0027.png",
+        "edit_type": "color_alter"
+    },
+    "939aadbf02607ea772e7c214d0cbc0e1": {
+        "prompt": "Change the clothing to pink.",
+        "id": "fullset/color_alter/en/939aadbf02607ea772e7c214d0cbc0e1.png",
+        "edit_type": "color_alter"
+    },
+    "e153b93ffb578c1939739628bad3c7a9": {
+        "prompt": "Change this avatar to a blue color tone while keeping the content the same.",
+        "id": "fullset/color_alter/en/e153b93ffb578c1939739628bad3c7a9.png",
+        "edit_type": "color_alter"
+    },
+    "eeab5f9b2f3a62deb674c7bc6af021fb": {
+        "prompt": "Change the car body color to gray.",
+        "id": "fullset/color_alter/en/eeab5f9b2f3a62deb674c7bc6af021fb.png",
+        "edit_type": "color_alter"
+    },
+    "1711b0f26ae0d35b6b33b0cd8fd2a6dc": {
+        "prompt": "Change the bed sheet color to sky blue.",
+        "id": "fullset/color_alter/en/1711b0f26ae0d35b6b33b0cd8fd2a6dc.png",
+        "edit_type": "color_alter"
+    },
+    "f521449fb89e5ded1f4ff725785d01b8": {
+        "prompt": "Change the hat\u2019s material to foam plastic.",
+        "id": "fullset/material_alter/en/f521449fb89e5ded1f4ff725785d01b8.png",
+        "edit_type": "material_alter"
+    },
+    "da8a0c7926b0c53a2c01c3a28e79a2ef": {
+        "prompt": "Replace the bench\u2019s material with marble.",
+        "id": "fullset/material_alter/en/da8a0c7926b0c53a2c01c3a28e79a2ef.png",
+        "edit_type": "material_alter"
+    },
+    "3df4fa90ddbeb16bfac10ede96f31262": {
+        "prompt": "Craft the ram with fine ceramic.",
+        "id": "fullset/material_alter/en/3df4fa90ddbeb16bfac10ede96f31262.png",
+        "edit_type": "material_alter"
+    },
+    "c18278ee2b0b3d8bd18c5279f4a8c636": {
+        "prompt": "Change the hat\u2019s material to paper.",
+        "id": "fullset/material_alter/en/c18278ee2b0b3d8bd18c5279f4a8c636.png",
+        "edit_type": "material_alter"
+    },
+    "cc99cdd8f171dfacc44cddb50b690743": {
+        "prompt": "Reshape the kitten using clay.",
+        "id": "fullset/material_alter/en/cc99cdd8f171dfacc44cddb50b690743.png",
+        "edit_type": "material_alter"
+    },
+    "611ae6fbc57a2b364325650954b21510": {
+        "prompt": "Replace the computer's casing with bamboo fiber composite.",
+        "id": "fullset/material_alter/en/611ae6fbc57a2b364325650954b21510.png",
+        "edit_type": "material_alter"
+    },
+    "0f6baa8d76c35f11200abb099692ed18": {
+        "prompt": "Change the bear\u2019s material to glass.",
+        "id": "fullset/material_alter/en/0f6baa8d76c35f11200abb099692ed18.png",
+        "edit_type": "material_alter"
+    },
+    "9d76287b0d48bcff3cdff69b198f569e": {
+        "prompt": "Reconstruct the bus body with solid wood panels.",
+        "id": "fullset/material_alter/en/9d76287b0d48bcff3cdff69b198f569e.png",
+        "edit_type": "material_alter"
+    },
+    "b83c07d09b8a5e602e152dbb6f0271d1": {
+        "prompt": "Change the plane's material to feathers.",
+        "id": "fullset/material_alter/en/b83c07d09b8a5e602e152dbb6f0271d1.png",
+        "edit_type": "material_alter"
+    },
+    "625a9a448c17aecb16dce5b0da3075a6": {
+        "prompt": "Transform the donut\u2019s material into aluminum foil.",
+        "id": "fullset/material_alter/en/625a9a448c17aecb16dce5b0da3075a6.png",
+        "edit_type": "material_alter"
+    },
+    "ca3b53a53971b0ad08476eeb10803df0": {
+        "prompt": "Make the chair entirely from bone china.",
+        "id": "fullset/material_alter/en/ca3b53a53971b0ad08476eeb10803df0.png",
+        "edit_type": "material_alter"
+    },
+    "5098e702ebab84dc41c1ec86a937bfb2": {
+        "prompt": "Change the zebra\u2019s material to concrete.",
+        "id": "fullset/material_alter/en/5098e702ebab84dc41c1ec86a937bfb2.png",
+        "edit_type": "material_alter"
+    },
+    "d2a394c05802831288e0a592d3e28169": {
+        "prompt": "Build the horse using red bricks.",
+        "id": "fullset/material_alter/en/d2a394c05802831288e0a592d3e28169.png",
+        "edit_type": "material_alter"
+    },
+    "59c7d7b4c69afb3117e9b53eb4893c4d": {
+        "prompt": "Change the doll\u2019s material to cotton fabric.",
+        "id": "fullset/material_alter/en/59c7d7b4c69afb3117e9b53eb4893c4d.png",
+        "edit_type": "material_alter"
+    },
+    "46090cab325a6d4ac10ced9b95dbcad7": {
+        "prompt": "Make the sheep from jade.",
+        "id": "fullset/material_alter/en/46090cab325a6d4ac10ced9b95dbcad7.png",
+        "edit_type": "material_alter"
+    },
+    "5dbff1a3b7d1fb890b72cef2f711a2ac": {
+        "prompt": "Craft the cat using cloisonn\u00e9 enamel.",
+        "id": "fullset/material_alter/en/5dbff1a3b7d1fb890b72cef2f711a2ac.png",
+        "edit_type": "material_alter"
+    },
+    "9612c74ec7892a39867e992d0d806314": {
+        "prompt": "Change the toilet\u2019s material to aluminum foil.",
+        "id": "fullset/material_alter/en/9612c74ec7892a39867e992d0d806314.png",
+        "edit_type": "material_alter"
+    },
+    "522ca43195a09cb195944e4154fb3286": {
+        "prompt": "Make the seagull from resin.",
+        "id": "fullset/material_alter/en/522ca43195a09cb195944e4154fb3286.png",
+        "edit_type": "material_alter"
+    },
+    "c0b82d5df485c7cbec00d9190adf0f55": {
+        "prompt": "Mold the bed frame from high-strength plaster.",
+        "id": "fullset/material_alter/en/c0b82d5df485c7cbec00d9190adf0f55.png",
+        "edit_type": "material_alter"
+    },
+    "a1e647285bd94edb240a412737354b02": {
+        "prompt": "Construct the elephant from bricks.",
+        "id": "fullset/material_alter/en/a1e647285bd94edb240a412737354b02.png",
+        "edit_type": "material_alter"
+    },
+    "f93b1dd57b6a8791c872be6221c66dd0": {
+        "prompt": "Replace the sword in the image with a diamond sword.",
+        "id": "fullset/material_alter/en/f93b1dd57b6a8791c872be6221c66dd0.png",
+        "edit_type": "material_alter"
+    },
+    "95368925f9384e28535aea893b6add55": {
+        "prompt": "Turn the bag stand into a glass counter.",
+        "id": "fullset/material_alter/en/95368925f9384e28535aea893b6add55.png",
+        "edit_type": "material_alter"
+    },
+    "6dc67bf92a79edb4f966836df4252145": {
+        "prompt": "Sculpt the ice cream from jade.",
+        "id": "fullset/material_alter/en/6dc67bf92a79edb4f966836df4252145.png",
+        "edit_type": "material_alter"
+    },
+    "df4b227669a0c09e007e063781385cc5": {
+        "prompt": "Change the hat\u2019s material to wood.",
+        "id": "fullset/material_alter/en/df4b227669a0c09e007e063781385cc5.png",
+        "edit_type": "material_alter"
+    },
+    "db87dca6363b0c1afd3246ab8fcfe5d7": {
+        "prompt": "Replace the doctor's coat with a Merino wool sweater.",
+        "id": "fullset/material_alter/en/db87dca6363b0c1afd3246ab8fcfe5d7.png",
+        "edit_type": "material_alter"
+    },
+    "7078f382f1fc25aeb48cbcd6dddd9c78": {
+        "prompt": "Reconstruct the tower structure using a cast iron framework.",
+        "id": "fullset/material_alter/en/7078f382f1fc25aeb48cbcd6dddd9c78.png",
+        "edit_type": "material_alter"
+    },
+    "6db0677c1fa5b1a266e9c078d5cb175d": {
+        "prompt": "Make the clothing fabric from premium linen.",
+        "id": "fullset/material_alter/en/6db0677c1fa5b1a266e9c078d5cb175d.png",
+        "edit_type": "material_alter"
+    },
+    "66fbc2d25acbb4b6542ba627c365bd4f": {
+        "prompt": "Craft the outerwear from full-grain calfskin leather.",
+        "id": "fullset/material_alter/en/66fbc2d25acbb4b6542ba627c365bd4f.png",
+        "edit_type": "material_alter"
+    },
+    "1e863624d729f3c358964626ad4612bc": {
+        "prompt": "Upgrade the necklace\u2019s material to 999 pure gold.",
+        "id": "fullset/material_alter/en/1e863624d729f3c358964626ad4612bc.png",
+        "edit_type": "material_alter"
+    },
+    "ac38191337c2f53c46b131624c789abc": {
+        "prompt": "Replace the tabletop with imported Italian marble.",
+        "id": "fullset/material_alter/en/ac38191337c2f53c46b131624c789abc.png",
+        "edit_type": "material_alter"
+    },
+    "73875335f42e4154ece47b4a4fafd83e": {
+        "prompt": "Swap the background plants for woven rattan.",
+        "id": "fullset/material_alter/en/73875335f42e4154ece47b4a4fafd83e.png",
+        "edit_type": "material_alter"
+    },
+    "43e8fede0b26141d75c64c1f03bfc96e": {
+        "prompt": "Change the clothing\u2019s material to foam.",
+        "id": "fullset/material_alter/en/43e8fede0b26141d75c64c1f03bfc96e.png",
+        "edit_type": "material_alter"
+    },
+    "d7380515285d80a58ff567863809c8f4": {
+        "prompt": "Replace with jade.",
+        "id": "fullset/material_alter/en/d7380515285d80a58ff567863809c8f4.png",
+        "edit_type": "material_alter"
+    },
+    "19e8dce7f4aa1758502870d9ae8a919b": {
+        "prompt": "Change the stone platform to rubber.",
+        "id": "fullset/material_alter/en/19e8dce7f4aa1758502870d9ae8a919b.png",
+        "edit_type": "material_alter"
+    },
+    "5b3a45f95245e83201a46866e71df0c9": {
+        "prompt": "Turn the puppy into clay.",
+        "id": "fullset/material_alter/en/5b3a45f95245e83201a46866e71df0c9.png",
+        "edit_type": "material_alter"
+    },
+    "dd0e86152b637efa3cc71b41fb8aaddc": {
+        "prompt": "Create a rubber-textured turtle identical to this one.",
+        "id": "fullset/material_alter/en/dd0e86152b637efa3cc71b41fb8aaddc.png",
+        "edit_type": "material_alter"
+    },
+    "db8e18433b727737610cb3d8b71f4690": {
+        "prompt": "Cutlery is made of food-grade stainless steel.",
+        "id": "fullset/material_alter/en/db8e18433b727737610cb3d8b71f4690.png",
+        "edit_type": "material_alter"
+    },
+    "0cf6ae6de96b2d07c717f8c3bf9517fa": {
+        "prompt": "Change the cup in hand to ceramic.",
+        "id": "fullset/material_alter/en/0cf6ae6de96b2d07c717f8c3bf9517fa.png",
+        "edit_type": "material_alter"
+    },
+    "641f39026c89fffaf60a4f0f50304d7d": {
+        "prompt": "Transform the clothing material into silk.",
+        "id": "fullset/material_alter/en/641f39026c89fffaf60a4f0f50304d7d.png",
+        "edit_type": "material_alter"
+    },
+    "803f665220970a442a420afb826b6747": {
+        "prompt": "Craft the outerwear from lambskin leather.",
+        "id": "fullset/material_alter/en/803f665220970a442a420afb826b6747.png",
+        "edit_type": "material_alter"
+    },
+    "76a4af36b318953c8054fdd706e7294f": {
+        "prompt": "change the action of cat to jumping",
+        "id": "fullset/motion_change/en/76a4af36b318953c8054fdd706e7294f.png",
+        "edit_type": "motion_change"
+    },
+    "caabd082c0ed1757df58db3eaea5ac73": {
+        "prompt": "change the action of biplane to landing",
+        "id": "fullset/motion_change/en/caabd082c0ed1757df58db3eaea5ac73.png",
+        "edit_type": "motion_change"
+    },
+    "41fcd0b5de39189a4fbf4eac28ce259a": {
+        "prompt": "Change the bird's action to flapping its wings and flying high",
+        "id": "fullset/motion_change/en/41fcd0b5de39189a4fbf4eac28ce259a.png",
+        "edit_type": "motion_change"
+    },
+    "f09044a354815af044038bf50708b58d": {
+        "prompt": "change the action of the man to running",
+        "id": "fullset/motion_change/en/f09044a354815af044038bf50708b58d.png",
+        "edit_type": "motion_change"
+    },
+    "be4bb34c6d879f253a4b7c4f32fc333f": {
+        "prompt": "make the action of the man to cheering",
+        "id": "fullset/motion_change/en/be4bb34c6d879f253a4b7c4f32fc333f.png",
+        "edit_type": "motion_change"
+    },
+    "0a4769356f68ed88de0d0eb3aba89eb6": {
+        "prompt": "Change the man's gesture to raising his hands",
+        "id": "fullset/motion_change/en/0a4769356f68ed88de0d0eb3aba89eb6.png",
+        "edit_type": "motion_change"
+    },
+    "8175d438e57f213c80425595063d053a": {
+        "prompt": "change the action of the horses to galloping",
+        "id": "fullset/motion_change/en/8175d438e57f213c80425595063d053a.png",
+        "edit_type": "motion_change"
+    },
+    "621c48b14baadc0c3947bc05857e91f4": {
+        "prompt": "change the action of the birds to flying",
+        "id": "fullset/motion_change/en/621c48b14baadc0c3947bc05857e91f4.png",
+        "edit_type": "motion_change"
+    },
+    "72fc47119a7cd90ecdcbf073c3fb74be": {
+        "prompt": "make the action of the woman to laughing",
+        "id": "fullset/motion_change/en/72fc47119a7cd90ecdcbf073c3fb74be.png",
+        "edit_type": "motion_change"
+    },
+    "3bf8c501e7e338fe92879153ec038ede": {
+        "prompt": "make the action of the plane to taking off",
+        "id": "fullset/motion_change/en/3bf8c501e7e338fe92879153ec038ede.png",
+        "edit_type": "motion_change"
+    },
+    "5e855293ac06b10ae7faeb4a675b18a6": {
+        "prompt": "make the action of the child to laughing",
+        "id": "fullset/motion_change/en/5e855293ac06b10ae7faeb4a675b18a6.png",
+        "edit_type": "motion_change"
+    },
+    "06ec0c598cbbc8c9490395a98b88adac": {
+        "prompt": "change the action of cat to sleeping",
+        "id": "fullset/motion_change/en/06ec0c598cbbc8c9490395a98b88adac.png",
+        "edit_type": "motion_change"
+    },
+    "733441fbfc73dee8d4a74d2bde1bd931": {
+        "prompt": "Change the person's movements to look forward",
+        "id": "fullset/motion_change/en/733441fbfc73dee8d4a74d2bde1bd931.png",
+        "edit_type": "motion_change"
+    },
+    "aefbfe530e2ce5323e5be6ea2575815e": {
+        "prompt": "make the action of the man to kissing",
+        "id": "fullset/motion_change/en/aefbfe530e2ce5323e5be6ea2575815e.png",
+        "edit_type": "motion_change"
+    },
+    "8296e86315751cdaa09c910c95b02c10": {
+        "prompt": "Make the person in the image smile slightly without altering the original structure.",
+        "id": "fullset/motion_change/en/8296e86315751cdaa09c910c95b02c10.png",
+        "edit_type": "motion_change"
+    },
+    "1941828e44744f4cd248560b4b67529c": {
+        "prompt": "Add a cherry-eating action without changing the original character.",
+        "id": "fullset/motion_change/en/1941828e44744f4cd248560b4b67529c.png",
+        "edit_type": "motion_change"
+    },
+    "3d112cbeb258289dbbca3738ee92a8aa": {
+        "prompt": "Animate the dog in the image.",
+        "id": "fullset/motion_change/en/3d112cbeb258289dbbca3738ee92a8aa.png",
+        "edit_type": "motion_change"
+    },
+    "353cf97ec89d2e51932763ae7538c4cc": {
+        "prompt": "Make the person in the image smile.",
+        "id": "fullset/motion_change/en/353cf97ec89d2e51932763ae7538c4cc.png",
+        "edit_type": "motion_change"
+    },
+    "65368cbdae17f7c44cd4d8d1271f0bdf": {
+        "prompt": "Make the person in the image give a thumbs-up.",
+        "id": "fullset/motion_change/en/65368cbdae17f7c44cd4d8d1271f0bdf.png",
+        "edit_type": "motion_change"
+    },
+    "fc228a38f175cad001bc8a409c76e63b": {
+        "prompt": "Make the person in the image wave.",
+        "id": "fullset/motion_change/en/fc228a38f175cad001bc8a409c76e63b.png",
+        "edit_type": "motion_change"
+    },
+    "73e34d4e31b308f26f3ade464bbd9a52": {
+        "prompt": "Make the little girl in the image stick out her tongue.",
+        "id": "fullset/motion_change/en/73e34d4e31b308f26f3ade464bbd9a52.png",
+        "edit_type": "motion_change"
+    },
+    "a6bd902e89f6b8576a02f2a0139a993b": {
+        "prompt": "Make the two main subjects in the image hug.",
+        "id": "fullset/motion_change/en/a6bd902e89f6b8576a02f2a0139a993b.png",
+        "edit_type": "motion_change"
+    },
+    "25a7bc668e846d7218e012af5295eba9": {
+        "prompt": "Transform the image into one where the woman tilts her head.",
+        "id": "fullset/motion_change/en/25a7bc668e846d7218e012af5295eba9.png",
+        "edit_type": "motion_change"
+    },
+    "0d61bb72d05645cec8a4c2c62cdf7fe0": {
+        "prompt": "Make the child pout.",
+        "id": "fullset/motion_change/en/0d61bb72d05645cec8a4c2c62cdf7fe0.png",
+        "edit_type": "motion_change"
+    },
+    "9b58419e6adadd4a367c699741e08f89": {
+        "prompt": "Change the expression to a crying face.",
+        "id": "fullset/motion_change/en/9b58419e6adadd4a367c699741e08f89.png",
+        "edit_type": "motion_change"
+    },
+    "0a406290c07e7b1837c0f3bcddbeb8d2": {
+        "prompt": "Generate an image of the character smiling based on this photo.",
+        "id": "fullset/motion_change/en/0a406290c07e7b1837c0f3bcddbeb8d2.png",
+        "edit_type": "motion_change"
+    },
+    "cd627a9fe6dd079a1e692be90563c50c": {
+        "prompt": "Make the person in the image make a funny face.",
+        "id": "fullset/motion_change/en/cd627a9fe6dd079a1e692be90563c50c.png",
+        "edit_type": "motion_change"
+    },
+    "f1a8ac0cd17e1138c22accdc095dfb04": {
+        "prompt": "Using the same image, generate one where the girl is crying.",
+        "id": "fullset/motion_change/en/f1a8ac0cd17e1138c22accdc095dfb04.png",
+        "edit_type": "motion_change"
+    },
+    "715a72723f1a797640c35a4c7a4f8f51": {
+        "prompt": "Change the person\u2019s expression to one of distress.",
+        "id": "fullset/motion_change/en/715a72723f1a797640c35a4c7a4f8f51.png",
+        "edit_type": "motion_change"
+    },
+    "2ca948c72ab289d2c86db037002baa95": {
+        "prompt": "Make all the people in the image laugh.",
+        "id": "fullset/motion_change/en/2ca948c72ab289d2c86db037002baa95.png",
+        "edit_type": "motion_change"
+    },
+    "dd6be6e54c7662c78f607bd88a931caf": {
+        "prompt": "Make the person in the photo dance.",
+        "id": "fullset/motion_change/en/dd6be6e54c7662c78f607bd88a931caf.png",
+        "edit_type": "motion_change"
+    },
+    "c5b82e3b142580940d3897a9f43b4139": {
+        "prompt": "Modify the image to show the person picking their nose.",
+        "id": "fullset/motion_change/en/c5b82e3b142580940d3897a9f43b4139.png",
+        "edit_type": "motion_change"
+    },
+    "1fbb9fae9fb272593a73203c8113f758": {
+        "prompt": "Make the person jump.",
+        "id": "fullset/motion_change/en/1fbb9fae9fb272593a73203c8113f758.png",
+        "edit_type": "motion_change"
+    },
+    "e648d94e8f66940befa13e34039be176": {
+        "prompt": "Animate the cat in the image.",
+        "id": "fullset/motion_change/en/e648d94e8f66940befa13e34039be176.png",
+        "edit_type": "motion_change"
+    },
+    "9ce39582df9aaf3b21b39fb9627f7bb2": {
+        "prompt": "Make the girl in the photo blow a kiss.",
+        "id": "fullset/motion_change/en/9ce39582df9aaf3b21b39fb9627f7bb2.png",
+        "edit_type": "motion_change"
+    },
+    "028b9a3c540ac8eaeef11799524ec127": {
+        "prompt": "Make the expression more sorrowful.",
+        "id": "fullset/motion_change/en/028b9a3c540ac8eaeef11799524ec127.png",
+        "edit_type": "motion_change"
+    },
+    "991cdfa18e521e034d65a636900b09af": {
+        "prompt": "Make the child in the image dance.",
+        "id": "fullset/motion_change/en/991cdfa18e521e034d65a636900b09af.png",
+        "edit_type": "motion_change"
+    },
+    "df666978387df220cd714f7b2f80b673": {
+        "prompt": "Make the people in the image smile happily.",
+        "id": "fullset/motion_change/en/df666978387df220cd714f7b2f80b673.png",
+        "edit_type": "motion_change"
+    },
+    "aa322dd5d83bd8e02afd3ad4a87d6a6a": {
+        "prompt": "Create an animated version of the person in the image blinking and opening their mouth.",
+        "id": "fullset/motion_change/en/aa322dd5d83bd8e02afd3ad4a87d6a6a.png",
+        "edit_type": "motion_change"
+    },
+    "e9b3b27074575e7615723b7ff89de9a0": {
+        "prompt": "Make the cat in the image run.",
+        "id": "fullset/motion_change/en/e9b3b27074575e7615723b7ff89de9a0.png",
+        "edit_type": "motion_change"
+    },
+    "ccffdca80bf93b14a3533eb46829300f": {
+        "prompt": "Remove his beard",
+        "id": "fullset/ps_human/en/ccffdca80bf93b14a3533eb46829300f.png",
+        "edit_type": "ps_human"
+    },
+    "cac69629251b8ef6f51d793b6a3b07fa": {
+        "prompt": "Make his nose more defined and his face slimmer",
+        "id": "fullset/ps_human/en/cac69629251b8ef6f51d793b6a3b07fa.png",
+        "edit_type": "ps_human"
+    },
+    "9b0d4782d50d550654d1daf53153524a": {
+        "prompt": "Make him lose 15 pounds",
+        "id": "fullset/ps_human/en/9b0d4782d50d550654d1daf53153524a.png",
+        "edit_type": "ps_human"
+    },
+    "1805a69d09b8d3637fe585f3c402ea2f": {
+        "prompt": "Make him gain 20 pounds",
+        "id": "fullset/ps_human/en/1805a69d09b8d3637fe585f3c402ea2f.png",
+        "edit_type": "ps_human"
+    },
+    "0e38f5cee6a69fb6b1817b1685618e91": {
+        "prompt": "Remove his abs and add more fat to his body",
+        "id": "fullset/ps_human/en/0e38f5cee6a69fb6b1817b1685618e91.png",
+        "edit_type": "ps_human"
+    },
+    "80e7583efc497acfddc6d6f34c1207c9": {
+        "prompt": "Make him look sad",
+        "id": "fullset/ps_human/en/80e7583efc497acfddc6d6f34c1207c9.png",
+        "edit_type": "ps_human"
+    },
+    "6ffe2a7e012e52694e1a07c00e7f44c5": {
+        "prompt": "Change her curly hair to straight hair",
+        "id": "fullset/ps_human/en/6ffe2a7e012e52694e1a07c00e7f44c5.png",
+        "edit_type": "ps_human"
+    },
+    "58d48d76e4705b16a6f03337fc6397e8": {
+        "prompt": "Make her look younger",
+        "id": "fullset/ps_human/en/58d48d76e4705b16a6f03337fc6397e8.png",
+        "edit_type": "ps_human"
+    },
+    "de1c094bc7a28f273e560bacef9c2a5e": {
+        "prompt": "Make her skin a bit darker, like after a sunbath",
+        "id": "fullset/ps_human/en/de1c094bc7a28f273e560bacef9c2a5e.png",
+        "edit_type": "ps_human"
+    },
+    "b125faa596111bb238ac9e908d67045b": {
+        "prompt": "Remove his beard and wrinkles from his face",
+        "id": "fullset/ps_human/en/b125faa596111bb238ac9e908d67045b.png",
+        "edit_type": "ps_human"
+    },
+    "06fa0ee0788e219cae32f542a417ab70": {
+        "prompt": "Make his beard longer",
+        "id": "fullset/ps_human/en/06fa0ee0788e219cae32f542a417ab70.png",
+        "edit_type": "ps_human"
+    },
+    "ea1de73c9c216ec0689eb650e51a5829": {
+        "prompt": "Make him look very happy",
+        "id": "fullset/ps_human/en/ea1de73c9c216ec0689eb650e51a5829.png",
+        "edit_type": "ps_human"
+    },
+    "3190e10334ec71222a324bf0b2e3a459": {
+        "prompt": "Make him look very serious",
+        "id": "fullset/ps_human/en/3190e10334ec71222a324bf0b2e3a459.png",
+        "edit_type": "ps_human"
+    },
+    "67fd8d190cb31cc01f52c2ec8ead9896": {
+        "prompt": "Make him look middle-aged",
+        "id": "fullset/ps_human/en/67fd8d190cb31cc01f52c2ec8ead9896.png",
+        "edit_type": "ps_human"
+    },
+    "1bdf06dc53b7cc3c907b540dca7b4b53": {
+        "prompt": "Make him look 10 years older",
+        "id": "fullset/ps_human/en/1bdf06dc53b7cc3c907b540dca7b4b53.png",
+        "edit_type": "ps_human"
+    },
+    "0d2a9e9966354dc8039aeee974c767c2": {
+        "prompt": "Make him look stronger",
+        "id": "fullset/ps_human/en/0d2a9e9966354dc8039aeee974c767c2.png",
+        "edit_type": "ps_human"
+    },
+    "e5db9a732c72acae1638371292c14220": {
+        "prompt": "Make him look older",
+        "id": "fullset/ps_human/en/e5db9a732c72acae1638371292c14220.png",
+        "edit_type": "ps_human"
+    },
+    "d7b1f377153a3e35db9020dc1a848c8a": {
+        "prompt": "Dye her hair brown",
+        "id": "fullset/ps_human/en/d7b1f377153a3e35db9020dc1a848c8a.png",
+        "edit_type": "ps_human"
+    },
+    "9a7eea29db11c1f500838bee90653970": {
+        "prompt": "Make him grow hair",
+        "id": "fullset/ps_human/en/9a7eea29db11c1f500838bee90653970.png",
+        "edit_type": "ps_human"
+    },
+    "1f1c9a1e6ce6899d91abcb9a67922758": {
+        "prompt": "Make him look more handsome with sharper eyes",
+        "id": "fullset/ps_human/en/1f1c9a1e6ce6899d91abcb9a67922758.png",
+        "edit_type": "ps_human"
+    },
+    "41d961b14b637889947080f1891f85ff": {
+        "prompt": "Make him look less angry",
+        "id": "fullset/ps_human/en/41d961b14b637889947080f1891f85ff.png",
+        "edit_type": "ps_human"
+    },
+    "fe220565cb0f22a44d1f0a81a132ce9f": {
+        "prompt": "Make him look like he is crying a lot",
+        "id": "fullset/ps_human/en/fe220565cb0f22a44d1f0a81a132ce9f.png",
+        "edit_type": "ps_human"
+    },
+    "918900e10cac886e4bdf4236efee15b9": {
+        "prompt": "Make her look better",
+        "id": "fullset/ps_human/en/918900e10cac886e4bdf4236efee15b9.png",
+        "edit_type": "ps_human"
+    },
+    "5968a24147a8564f74bd09104c4c032e": {
+        "prompt": "Make him have more muscles and a stronger vibe",
+        "id": "fullset/ps_human/en/5968a24147a8564f74bd09104c4c032e.png",
+        "edit_type": "ps_human"
+    },
+    "4c453fc6e3f8842296406dc7c8ad5ac4": {
+        "prompt": "Make him more handsome",
+        "id": "fullset/ps_human/en/4c453fc6e3f8842296406dc7c8ad5ac4.png",
+        "edit_type": "ps_human"
+    },
+    "6022c9e5401a53028e3b0690cce7a9db": {
+        "prompt": "Make him laugh heartily",
+        "id": "fullset/ps_human/en/6022c9e5401a53028e3b0690cce7a9db.png",
+        "edit_type": "ps_human"
+    },
+    "4611d3319199a5c4b84ea1608f6eba29": {
+        "prompt": "Make him look younger",
+        "id": "fullset/ps_human/en/4611d3319199a5c4b84ea1608f6eba29.png",
+        "edit_type": "ps_human"
+    },
+    "f21e2f3585f8cddeab9d472375e92bac": {
+        "prompt": "Make him grow long hair",
+        "id": "fullset/ps_human/en/f21e2f3585f8cddeab9d472375e92bac.png",
+        "edit_type": "ps_human"
+    },
+    "2dd5f9c40a055007abcafbbdaf2be46b": {
+        "prompt": "Make his skin smoother, no wrinkles",
+        "id": "fullset/ps_human/en/2dd5f9c40a055007abcafbbdaf2be46b.png",
+        "edit_type": "ps_human"
+    },
+    "ba360f7380e2f080485af9bbe38bd4c6": {
+        "prompt": "Make him lose 20 pounds",
+        "id": "fullset/ps_human/en/ba360f7380e2f080485af9bbe38bd4c6.png",
+        "edit_type": "ps_human"
+    },
+    "6cabdec52f6113e0a365332f323053b1": {
+        "prompt": "Make me look like a handsome guy in this photo.",
+        "id": "fullset/ps_human/en/6cabdec52f6113e0a365332f323053b1.png",
+        "edit_type": "ps_human"
+    },
+    "9647d92cf8edeec8c3b68ecb6150f7c7": {
+        "prompt": "Enhance the appearance.",
+        "id": "fullset/ps_human/en/9647d92cf8edeec8c3b68ecb6150f7c7.png",
+        "edit_type": "ps_human"
+    },
+    "f0995ee97b33e6ca5effc808be8e4ac2": {
+        "prompt": "Make the allergic reaction on my face look more severe.",
+        "id": "fullset/ps_human/en/f0995ee97b33e6ca5effc808be8e4ac2.png",
+        "edit_type": "ps_human"
+    },
+    "47e2e49cf8b662a7493ddad42334b6e1": {
+        "prompt": "How can I fix these facial imperfections?",
+        "id": "fullset/ps_human/en/47e2e49cf8b662a7493ddad42334b6e1.png",
+        "edit_type": "ps_human"
+    },
+    "cc7a45219bdfbaf01dc3348735c183d0": {
+        "prompt": "Remove the eyeshadow and lipstick.",
+        "id": "fullset/ps_human/en/cc7a45219bdfbaf01dc3348735c183d0.png",
+        "edit_type": "ps_human"
+    },
+    "c96ed4ce8d74381cce77516fa3c3b6b3": {
+        "prompt": "Add abs to the original photo.",
+        "id": "fullset/ps_human/en/c96ed4ce8d74381cce77516fa3c3b6b3.png",
+        "edit_type": "ps_human"
+    },
+    "ca9fc1fd8ffd6fdc77d694c5786a69db": {
+        "prompt": "Make his nose higher.",
+        "id": "fullset/ps_human/en/ca9fc1fd8ffd6fdc77d694c5786a69db.png",
+        "edit_type": "ps_human"
+    },
+    "27a041f8cf96466d3fe99c2854600ed7": {
+        "prompt": "Edit the eyes to look red and teary.",
+        "id": "fullset/ps_human/en/27a041f8cf96466d3fe99c2854600ed7.png",
+        "edit_type": "ps_human"
+    },
+    "84e1ecd02e31ff710caf92575973abb3": {
+        "prompt": "Make it look better.",
+        "id": "fullset/ps_human/en/84e1ecd02e31ff710caf92575973abb3.png",
+        "edit_type": "ps_human"
+    },
+    "c18b9ea3a82a132108bb19942258fae1": {
+        "prompt": "Remove acne and blemishes from my face, slim down my nose and face.",
+        "id": "fullset/ps_human/en/c18b9ea3a82a132108bb19942258fae1.png",
+        "edit_type": "ps_human"
+    },
+    "04f9da181ba94ebbb7b76206affdc4cc": {
+        "prompt": "Give me a G-cup while keeping my face unchanged and maintaining the original proportions.",
+        "id": "fullset/ps_human/en/04f9da181ba94ebbb7b76206affdc4cc.png",
+        "edit_type": "ps_human"
+    },
+    "f598b8339d28b4c0836da4341785e605": {
+        "prompt": "Refine the chin in this photo.",
+        "id": "fullset/ps_human/en/f598b8339d28b4c0836da4341785e605.png",
+        "edit_type": "ps_human"
+    },
+    "2898a98d82023e2e558488202dc231af": {
+        "prompt": "Edit my face to remove spots, slim it down, and brighten the skin.",
+        "id": "fullset/ps_human/en/2898a98d82023e2e558488202dc231af.png",
+        "edit_type": "ps_human"
+    },
+    "697678d3816a0fcfc357a108ae47955a": {
+        "prompt": "Enhance my nose.",
+        "id": "fullset/ps_human/en/697678d3816a0fcfc357a108ae47955a.png",
+        "edit_type": "ps_human"
+    },
+    "32d356cc309cfe3682305e2c3c2adfd9": {
+        "prompt": "Without altering or beautifying anything else, just shape my eyebrows to suit me.",
+        "id": "fullset/ps_human/en/32d356cc309cfe3682305e2c3c2adfd9.png",
+        "edit_type": "ps_human"
+    },
+    "089748fdcf4c407ac479c76e0f62f8f4": {
+        "prompt": "Make my legs longer in the photo.",
+        "id": "fullset/ps_human/en/089748fdcf4c407ac479c76e0f62f8f4.png",
+        "edit_type": "ps_human"
+    },
+    "6d71b1b0b6f8fb153cf031d29ba59129": {
+        "prompt": "Draw her with a much larger chest.",
+        "id": "fullset/ps_human/en/6d71b1b0b6f8fb153cf031d29ba59129.png",
+        "edit_type": "ps_human"
+    },
+    "e3ec80bb14ae5d53e19a1d5efd5921a1": {
+        "prompt": "Make me look 10 pounds thinner.",
+        "id": "fullset/ps_human/en/e3ec80bb14ae5d53e19a1d5efd5921a1.png",
+        "edit_type": "ps_human"
+    },
+    "d64299c7e5b6cda2e20b7fd0c577aba3": {
+        "prompt": "Whiten my face and apply a better filter.",
+        "id": "fullset/ps_human/en/d64299c7e5b6cda2e20b7fd0c577aba3.png",
+        "edit_type": "ps_human"
+    },
+    "2e6c9f632d7c9a434011c88cc1e3c8d8": {
+        "prompt": "Add abs to this image.",
+        "id": "fullset/ps_human/en/2e6c9f632d7c9a434011c88cc1e3c8d8.png",
+        "edit_type": "ps_human"
+    },
+    "7160b6370ace4b0a89a408876b48c1c4": {
+        "prompt": "Edit the image to give me visible abs.",
+        "id": "fullset/ps_human/en/7160b6370ace4b0a89a408876b48c1c4.png",
+        "edit_type": "ps_human"
+    },
+    "c0887ad7bc9f207f3acf198fc2a2e4aa": {
+        "prompt": "Make my hair longer.",
+        "id": "fullset/ps_human/en/c0887ad7bc9f207f3acf198fc2a2e4aa.png",
+        "edit_type": "ps_human"
+    },
+    "535fc24a4f6446999ac202e6e2eab72c": {
+        "prompt": "Transform the original photo into a youthful and stylish version.",
+        "id": "fullset/ps_human/en/535fc24a4f6446999ac202e6e2eab72c.png",
+        "edit_type": "ps_human"
+    },
+    "b6669ad585437d790d56c9d51812ce73": {
+        "prompt": "Adjust my face size to be symmetrical, and make my eyes the same size.",
+        "id": "fullset/ps_human/en/b6669ad585437d790d56c9d51812ce73.png",
+        "edit_type": "ps_human"
+    },
+    "5681bb73bf53906dfe4e7376be42d981": {
+        "prompt": "Make my eyes bigger.",
+        "id": "fullset/ps_human/en/5681bb73bf53906dfe4e7376be42d981.png",
+        "edit_type": "ps_human"
+    },
+    "aa5b5375f7ead439732b0979fab353b6": {
+        "prompt": "Generate a version where the girl on the right looks slimmer.",
+        "id": "fullset/ps_human/en/aa5b5375f7ead439732b0979fab353b6.png",
+        "edit_type": "ps_human"
+    },
+    "038013b7852ce014b254effb307ec5de": {
+        "prompt": "This is my photo\u2014please make me look more handsome.",
+        "id": "fullset/ps_human/en/038013b7852ce014b254effb307ec5de.png",
+        "edit_type": "ps_human"
+    },
+    "3b0f6ca611bfa2f2416bf7ade7f60811": {
+        "prompt": "Feminize my appearance.",
+        "id": "fullset/ps_human/en/3b0f6ca611bfa2f2416bf7ade7f60811.png",
+        "edit_type": "ps_human"
+    },
+    "38121c6cc4479c8a4fbd0d888bb79f1d": {
+        "prompt": "Make me look more masculine.",
+        "id": "fullset/ps_human/en/38121c6cc4479c8a4fbd0d888bb79f1d.png",
+        "edit_type": "ps_human"
+    },
+    "56287939cfa47505f0cc400430ae4131": {
+        "prompt": "Enhance this photo to make me look better.",
+        "id": "fullset/ps_human/en/56287939cfa47505f0cc400430ae4131.png",
+        "edit_type": "ps_human"
+    },
+    "c9101db419bbcd1b258ed367dc09b986": {
+        "prompt": "Retouch this image.",
+        "id": "fullset/ps_human/en/c9101db419bbcd1b258ed367dc09b986.png",
+        "edit_type": "ps_human"
+    },
+    "4b7e3f9099377e3823c1c3e0d924883a": {
+        "prompt": "Make me look handsome.",
+        "id": "fullset/ps_human/en/4b7e3f9099377e3823c1c3e0d924883a.png",
+        "edit_type": "ps_human"
+    },
+    "3547f6c2021822fb3f480595a44679bd": {
+        "prompt": "Make me look as good as possible.",
+        "id": "fullset/ps_human/en/3547f6c2021822fb3f480595a44679bd.png",
+        "edit_type": "ps_human"
+    },
+    "e16b35649536eed0fecef4c7704b228b": {
+        "prompt": "Make me look 20 years younger.",
+        "id": "fullset/ps_human/en/e16b35649536eed0fecef4c7704b228b.png",
+        "edit_type": "ps_human"
+    },
+    "f81d8419a96bac5878844b85e21a938c": {
+        "prompt": "Make my face look better.",
+        "id": "fullset/ps_human/en/f81d8419a96bac5878844b85e21a938c.png",
+        "edit_type": "ps_human"
+    },
+    "8195e9e69612be9bae6cad135bb94840": {
+        "prompt": "Change my face shape to a round one.",
+        "id": "fullset/ps_human/en/8195e9e69612be9bae6cad135bb94840.png",
+        "edit_type": "ps_human"
+    },
+    "d405f724329102f5171bdcc915177e35": {
+        "prompt": "Transform me into a Korean-style handsome guy.",
+        "id": "fullset/ps_human/en/d405f724329102f5171bdcc915177e35.png",
+        "edit_type": "ps_human"
+    },
+    "2dd8b5fb8e22905ed49d87660eb82ee0": {
+        "prompt": "Edit this photo\u2014slim the waist and lift the butt.",
+        "id": "fullset/ps_human/en/2dd8b5fb8e22905ed49d87660eb82ee0.png",
+        "edit_type": "ps_human"
+    },
+    "ce9fa032e29c8f6418f4cab41e068fcb": {
+        "prompt": "Make me look more attractive.",
+        "id": "fullset/ps_human/en/ce9fa032e29c8f6418f4cab41e068fcb.png",
+        "edit_type": "ps_human"
+    },
+    "a50f15973f0f4fcf88c8badcab58e86a": {
+        "prompt": "Generate my adult appearance.",
+        "id": "fullset/ps_human/en/a50f15973f0f4fcf88c8badcab58e86a.png",
+        "edit_type": "ps_human"
+    },
+    "15f01f7d55ad4f8695218594277e451f": {
+        "prompt": "Convert the image to a Japanese manga style.",
+        "id": "fullset/style_change/en/15f01f7d55ad4f8695218594277e451f.png",
+        "edit_type": "style_change"
+    },
+    "4c14aafd852de6b46042af27c98c6a27": {
+        "prompt": "Apply the art style of Hayao Miyazaki's animated films.",
+        "id": "fullset/style_change/en/4c14aafd852de6b46042af27c98c6a27.png",
+        "edit_type": "style_change"
+    },
+    "fd82e6b33505ba16b6c64cfff4ea3895": {
+        "prompt": "Switch to an American cartoon animation effect.",
+        "id": "fullset/style_change/en/fd82e6b33505ba16b6c64cfff4ea3895.png",
+        "edit_type": "style_change"
+    },
+    "c51e5e8de213d991bcab4513da06c885": {
+        "prompt": "Render with Pixar Animation Studios' 3D texture.",
+        "id": "fullset/style_change/en/c51e5e8de213d991bcab4513da06c885.png",
+        "edit_type": "style_change"
+    },
+    "6b63968c28b15a0bb25b6f93056811c8": {
+        "prompt": "Transform into a Japanese anime visual style.",
+        "id": "fullset/style_change/en/6b63968c28b15a0bb25b6f93056811c8.png",
+        "edit_type": "style_change"
+    },
+    "9c72e227cbe037de86345d2d79652e5d": {
+        "prompt": "Change the image style to a high-contrast look.",
+        "id": "fullset/style_change/en/9c72e227cbe037de86345d2d79652e5d.png",
+        "edit_type": "style_change"
+    },
+    "74d28960183c3490877d0da05b4ced6b": {
+        "prompt": "Replace the image style with a 3D effect.",
+        "id": "fullset/style_change/en/74d28960183c3490877d0da05b4ced6b.png",
+        "edit_type": "style_change"
+    },
+    "2c9c0664af586124f7fa0108419dc9b3": {
+        "prompt": "Adjust the image style to a bubble-like aesthetic.",
+        "id": "fullset/style_change/en/2c9c0664af586124f7fa0108419dc9b3.png",
+        "edit_type": "style_change"
+    },
+    "5fb4494003bb1a55335de8b9ec954f29": {
+        "prompt": "Add vintage film grain and faded effects.",
+        "id": "fullset/style_change/en/5fb4494003bb1a55335de8b9ec954f29.png",
+        "edit_type": "style_change"
+    },
+    "d124236c63ab27f157dd7ffdf6d9cc4b": {
+        "prompt": "Simulate the texture of clay stop-motion animation.",
+        "id": "fullset/style_change/en/d124236c63ab27f157dd7ffdf6d9cc4b.png",
+        "edit_type": "style_change"
+    },
+    "1484ee9ef9a7f142aff7856a0edb276b": {
+        "prompt": "Present the brushstroke characteristics of digital painting.",
+        "id": "fullset/style_change/en/1484ee9ef9a7f142aff7856a0edb276b.png",
+        "edit_type": "style_change"
+    },
+    "04a128c7a483127cf7ad491c56de17d5": {
+        "prompt": "Replace the image style with fantasy art.",
+        "id": "fullset/style_change/en/04a128c7a483127cf7ad491c56de17d5.png",
+        "edit_type": "style_change"
+    },
+    "d6ac5062a555a85235c762972d5277fe": {
+        "prompt": "Change the image style to a Mondrian-inspired look.",
+        "id": "fullset/style_change/en/d6ac5062a555a85235c762972d5277fe.png",
+        "edit_type": "style_change"
+    },
+    "4e62777f17329aff2906ff86a217ccb6": {
+        "prompt": "Adjust the image style to a watercolor effect.",
+        "id": "fullset/style_change/en/4e62777f17329aff2906ff86a217ccb6.png",
+        "edit_type": "style_change"
+    },
+    "d99c96ce517e4588da92570b178e8906": {
+        "prompt": "Modify the image style into line art.",
+        "id": "fullset/style_change/en/d99c96ce517e4588da92570b178e8906.png",
+        "edit_type": "style_change"
+    },
+    "a69d50a3ae88a3405928ebd3f05d60eb": {
+        "prompt": "Transform the image into a retro aesthetic.",
+        "id": "fullset/style_change/en/a69d50a3ae88a3405928ebd3f05d60eb.png",
+        "edit_type": "style_change"
+    },
+    "45d80a2eb5f3804b79cc274526e60c02": {
+        "prompt": "Switch the image style to neon-punk.",
+        "id": "fullset/style_change/en/45d80a2eb5f3804b79cc274526e60c02.png",
+        "edit_type": "style_change"
+    },
+    "f1a9872a150e9dd0850744bd0effe17d": {
+        "prompt": "Convert the image style to pixel art.",
+        "id": "fullset/style_change/en/f1a9872a150e9dd0850744bd0effe17d.png",
+        "edit_type": "style_change"
+    },
+    "53d3ea8751230795aaa6ce6bf85669dc": {
+        "prompt": "Adjust the image style to a gothic theme.",
+        "id": "fullset/style_change/en/53d3ea8751230795aaa6ce6bf85669dc.png",
+        "edit_type": "style_change"
+    },
+    "d3f8877981d10b5a003e6223531c71eb": {
+        "prompt": "Use abstract color blocks and lines to express the composition.",
+        "id": "fullset/style_change/en/d3f8877981d10b5a003e6223531c71eb.png",
+        "edit_type": "style_change"
+    },
+    "9a6b59107a07bbe528614eff11b697b9": {
+        "prompt": "Turn it into a cartoon image.",
+        "id": "fullset/style_change/en/9a6b59107a07bbe528614eff11b697b9.png",
+        "edit_type": "style_change"
+    },
+    "45a4db4e153c28c6a04bc2c642c0c12c": {
+        "prompt": "Please transform this photo into a Cubist style.",
+        "id": "fullset/style_change/en/45a4db4e153c28c6a04bc2c642c0c12c.png",
+        "edit_type": "style_change"
+    },
+    "c00a2045d8125220281c879fd556c528": {
+        "prompt": "Convert it into a graffiti style.",
+        "id": "fullset/style_change/en/c00a2045d8125220281c879fd556c528.png",
+        "edit_type": "style_change"
+    },
+    "739b6810796e2c0179073e600004b764": {
+        "prompt": "Switch the image to a high-resolution Impressionist painting.",
+        "id": "fullset/style_change/en/739b6810796e2c0179073e600004b764.png",
+        "edit_type": "style_change"
+    },
+    "af2db8f036e553f782d1ed6573c68fb7": {
+        "prompt": "Transform this image into a Pointillist artwork.",
+        "id": "fullset/style_change/en/af2db8f036e553f782d1ed6573c68fb7.png",
+        "edit_type": "style_change"
+    },
+    "727fd5249ae60ae0279432babea49584": {
+        "prompt": "Change it to a Pop Art style.",
+        "id": "fullset/style_change/en/727fd5249ae60ae0279432babea49584.png",
+        "edit_type": "style_change"
+    },
+    "27e4b539c6355586fe2935d6a90bba61": {
+        "prompt": "Adjust the image style to an oil painting with bold brushstrokes.",
+        "id": "fullset/style_change/en/27e4b539c6355586fe2935d6a90bba61.png",
+        "edit_type": "style_change"
+    },
+    "22b24d3d01e3b64ec59ae5f8e3c170fa": {
+        "prompt": "Turn this image into a steampunk aesthetic.",
+        "id": "fullset/style_change/en/22b24d3d01e3b64ec59ae5f8e3c170fa.png",
+        "edit_type": "style_change"
+    },
+    "9cf1146672c2b9e1d4ce37b9dbb3fbda": {
+        "prompt": "Modify it into an Impressionist oil painting.",
+        "id": "fullset/style_change/en/9cf1146672c2b9e1d4ce37b9dbb3fbda.png",
+        "edit_type": "style_change"
+    },
+    "a5f07e015eeb284665b72240e853baa5": {
+        "prompt": "Transform it into an oil painting style.",
+        "id": "fullset/style_change/en/a5f07e015eeb284665b72240e853baa5.png",
+        "edit_type": "style_change"
+    },
+    "23f17387da2ea2e6817c2204417195ff": {
+        "prompt": "Change this image to a Pixar style with a background of a vibrant spring park while keeping the character unchanged.",
+        "id": "fullset/style_change/en/23f17387da2ea2e6817c2204417195ff.png",
+        "edit_type": "style_change"
+    },
+    "bd033dd036c1f2e6424ceb3fd9f90dbd": {
+        "prompt": "Convert to a watercolor painting style.",
+        "id": "fullset/style_change/en/bd033dd036c1f2e6424ceb3fd9f90dbd.png",
+        "edit_type": "style_change"
+    },
+    "f709057fa095f9cb9426f4c3cc783822": {
+        "prompt": "Please change this photo into a *Genshin Impact* style.",
+        "id": "fullset/style_change/en/f709057fa095f9cb9426f4c3cc783822.png",
+        "edit_type": "style_change"
+    },
+    "41a20c339a3c73c6cc5200d03d7ff4a1": {
+        "prompt": "Generate a Pixar-style animation with a cheerful spring background.",
+        "id": "fullset/style_change/en/41a20c339a3c73c6cc5200d03d7ff4a1.png",
+        "edit_type": "style_change"
+    },
+    "9b7e39332a893401bdd50a09b75ecd3e": {
+        "prompt": "Modify it into a digital illustration style.",
+        "id": "fullset/style_change/en/9b7e39332a893401bdd50a09b75ecd3e.png",
+        "edit_type": "style_change"
+    },
+    "f4dfe5ffe8cb955f41ac3858dd6ac5d7": {
+        "prompt": "Generate a gothic-style image.",
+        "id": "fullset/style_change/en/f4dfe5ffe8cb955f41ac3858dd6ac5d7.png",
+        "edit_type": "style_change"
+    },
+    "5788cde5a601a266804107209de8ee4c": {
+        "prompt": "Switch the image to a minimalist aesthetic.",
+        "id": "fullset/style_change/en/5788cde5a601a266804107209de8ee4c.png",
+        "edit_type": "style_change"
+    },
+    "7327c91f9d675ec5e69712972f49a06c": {
+        "prompt": "Recreate it in the style of Monet.",
+        "id": "fullset/style_change/en/7327c91f9d675ec5e69712972f49a06c.png",
+        "edit_type": "style_change"
+    },
+    "a50fdf85f87b7a11acc92335eaba1b6c": {
+        "prompt": "Generate a monochrome-style animation.",
+        "id": "fullset/style_change/en/a50fdf85f87b7a11acc92335eaba1b6c.png",
+        "edit_type": "style_change"
+    },
+    "1f08678913cf5274ac110ee34ef2b8d8": {
+        "prompt": "Create an artwork in a tribal aesthetic.",
+        "id": "fullset/style_change/en/1f08678913cf5274ac110ee34ef2b8d8.png",
+        "edit_type": "style_change"
+    },
+    "07fc2fa9b1bbee0e9e37421fe3a6576b": {
+        "prompt": "Turn the image into an American comic style.",
+        "id": "fullset/style_change/en/07fc2fa9b1bbee0e9e37421fe3a6576b.png",
+        "edit_type": "style_change"
+    },
+    "35825b1573a735192ee20541255a0e87": {
+        "prompt": "Make it anime-style.",
+        "id": "fullset/style_change/en/35825b1573a735192ee20541255a0e87.png",
+        "edit_type": "style_change"
+    },
+    "2b2bdf9401c83ea114677520a589e383": {
+        "prompt": "Generate a collage-style artwork.",
+        "id": "fullset/style_change/en/2b2bdf9401c83ea114677520a589e383.png",
+        "edit_type": "style_change"
+    },
+    "508064bc4a75a2e2d065ee06ff93eb44": {
+        "prompt": "Please change this image into a manga style.",
+        "id": "fullset/style_change/en/508064bc4a75a2e2d065ee06ff93eb44.png",
+        "edit_type": "style_change"
+    },
+    "acb15686bbb0df11a35eb9b6a8c9062a": {
+        "prompt": "Edit this photo to have a Fuji-style aesthetic.",
+        "id": "fullset/style_change/en/acb15686bbb0df11a35eb9b6a8c9062a.png",
+        "edit_type": "style_change"
+    },
+    "8d7df9ad8365c7bb1196275184327d2d": {
+        "prompt": "Create a dark-themed version.",
+        "id": "fullset/style_change/en/8d7df9ad8365c7bb1196275184327d2d.png",
+        "edit_type": "style_change"
+    },
+    "cd36d9862ef442202ea6d3ffc5b8e8dd": {
+        "prompt": "Transform the buildings in the image into a colorful, cute, anime-style landscape full of blooming flowers.",
+        "id": "fullset/style_change/en/cd36d9862ef442202ea6d3ffc5b8e8dd.png",
+        "edit_type": "style_change"
+    },
+    "599dbcd5dd042cec90da287aa11414ce": {
+        "prompt": "Convert this image into an anime style.",
+        "id": "fullset/style_change/en/599dbcd5dd042cec90da287aa11414ce.png",
+        "edit_type": "style_change"
+    },
+    "53eeb1cef5005f5e54b87b8e30c3a85b": {
+        "prompt": "Generate a pixel-art avatar based on this girl's photo.",
+        "id": "fullset/style_change/en/53eeb1cef5005f5e54b87b8e30c3a85b.png",
+        "edit_type": "style_change"
+    },
+    "84111b91ee328a9c2fc1cf7342b84480": {
+        "prompt": "Generate an ink wash painting-style image.",
+        "id": "fullset/style_change/en/84111b91ee328a9c2fc1cf7342b84480.png",
+        "edit_type": "style_change"
+    },
+    "acda14bb5323b325128b624ecc6652c0": {
+        "prompt": "Modify this image in a Ghibli style.",
+        "id": "fullset/style_change/en/acda14bb5323b325128b624ecc6652c0.png",
+        "edit_type": "style_change"
+    },
+    "2928aac848e0c414823b1b4c2c144ad5": {
+        "prompt": "Convert to an ink wash painting style.",
+        "id": "fullset/style_change/en/2928aac848e0c414823b1b4c2c144ad5.png",
+        "edit_type": "style_change"
+    },
+    "ddf9a3b77759783bb6d2b96453f8454b": {
+        "prompt": "Switch to a Ghibli style.",
+        "id": "fullset/style_change/en/ddf9a3b77759783bb6d2b96453f8454b.png",
+        "edit_type": "style_change"
+    },
+    "3a95a56fdbaed9acedd16d650dcc41ac": {
+        "prompt": "Generate a Pixar-style animation.",
+        "id": "fullset/style_change/en/3a95a56fdbaed9acedd16d650dcc41ac.png",
+        "edit_type": "style_change"
+    },
+    "99ccd2da145b7d7ca7670e407cb3bef7": {
+        "prompt": "Convert the young man and woman in the first image into chibi-style characters similar to those in the second image.",
+        "id": "fullset/style_change/en/99ccd2da145b7d7ca7670e407cb3bef7.png",
+        "edit_type": "style_change"
+    },
+    "af2400e4008497474a3ded8fbbb3acc0": {
+        "prompt": "Transform it into a Ghibli style.",
+        "id": "fullset/style_change/en/af2400e4008497474a3ded8fbbb3acc0.png",
+        "edit_type": "style_change"
+    },
+    "1ae5cde224b986b5e4e9d5bdcf44321e": {
+        "prompt": "Make it an oil painting.",
+        "id": "fullset/style_change/en/1ae5cde224b986b5e4e9d5bdcf44321e.png",
+        "edit_type": "style_change"
+    },
+    "f50278651439a107a2ff7e1b6f76ff08": {
+        "prompt": "Edit this image into a bright and sunny style for use as an avatar.",
+        "id": "fullset/style_change/en/f50278651439a107a2ff7e1b6f76ff08.png",
+        "edit_type": "style_change"
+    },
+    "1021ff6859a5be7b3955a1fc8d1a9431": {
+        "prompt": "Generate a cyberpunk-style photo.",
+        "id": "fullset/style_change/en/1021ff6859a5be7b3955a1fc8d1a9431.png",
+        "edit_type": "style_change"
+    },
+    "ae112c98cae0bfd203af4da8ee3ad54f": {
+        "prompt": "Redraw it as a chibi-style illustration.",
+        "id": "fullset/style_change/en/ae112c98cae0bfd203af4da8ee3ad54f.png",
+        "edit_type": "style_change"
+    },
+    "462493728c812ed7b9a46d35bd923d34": {
+        "prompt": "add a book in her hand",
+        "id": "fullset/subject-add/en/462493728c812ed7b9a46d35bd923d34.png",
+        "edit_type": "subject-add"
+    },
+    "25631c283bd12713900c693009b1c4ca": {
+        "prompt": "add a poolside lounge chair",
+        "id": "fullset/subject-add/en/25631c283bd12713900c693009b1c4ca.png",
+        "edit_type": "subject-add"
+    },
+    "3d00688dfbae3a417d9fdb0599c31612": {
+        "prompt": "add a spoon next to the bowl",
+        "id": "fullset/subject-add/en/3d00688dfbae3a417d9fdb0599c31612.png",
+        "edit_type": "subject-add"
+    },
+    "cbb6a1442c20bc7d006fc52f57a7e069": {
+        "prompt": "include a table with a plate",
+        "id": "fullset/subject-add/en/cbb6a1442c20bc7d006fc52f57a7e069.png",
+        "edit_type": "subject-add"
+    },
+    "8a116404e2af4eb50871e06263c518b0": {
+        "prompt": "add a bookshelf in the corner",
+        "id": "fullset/subject-add/en/8a116404e2af4eb50871e06263c518b0.png",
+        "edit_type": "subject-add"
+    },
+    "7fa258492c40546a1412b2e24f283e5f": {
+        "prompt": "add a flying baseball coming towards the player",
+        "id": "fullset/subject-add/en/7fa258492c40546a1412b2e24f283e5f.png",
+        "edit_type": "subject-add"
+    },
+    "ab8c8482e5621349ffcaf7b73a3898d6": {
+        "prompt": "add a beautiful ring on the finger",
+        "id": "fullset/subject-add/en/ab8c8482e5621349ffcaf7b73a3898d6.png",
+        "edit_type": "subject-add"
+    },
+    "b9c37aa4bbba0d3603d3d3d6b2472f44": {
+        "prompt": "add a candle on top of the cake",
+        "id": "fullset/subject-add/en/b9c37aa4bbba0d3603d3d3d6b2472f44.png",
+        "edit_type": "subject-add"
+    },
+    "92bb99012b775fec11f9c61eb22340e5": {
+        "prompt": "add a palm tree behind him",
+        "id": "fullset/subject-add/en/92bb99012b775fec11f9c61eb22340e5.png",
+        "edit_type": "subject-add"
+    },
+    "41fa4cf4dabc709bc1a04b273b801471": {
+        "prompt": "add a hot air balloon in the sky",
+        "id": "fullset/subject-add/en/41fa4cf4dabc709bc1a04b273b801471.png",
+        "edit_type": "subject-add"
+    },
+    "82f0d5a60f6a14fcbf7a0828d93b2c42": {
+        "prompt": "add a cat sitting in the basket",
+        "id": "fullset/subject-add/en/82f0d5a60f6a14fcbf7a0828d93b2c42.png",
+        "edit_type": "subject-add"
+    },
+    "38e83bc17f011f6fe380618f5edc9af4": {
+        "prompt": "add a butterfly fluttering around the cat",
+        "id": "fullset/subject-add/en/38e83bc17f011f6fe380618f5edc9af4.png",
+        "edit_type": "subject-add"
+    },
+    "24365500c3f8cef08832d25e00ae03cb": {
+        "prompt": "add a red cherry on top of pizza",
+        "id": "fullset/subject-add/en/24365500c3f8cef08832d25e00ae03cb.png",
+        "edit_type": "subject-add"
+    },
+    "6d36627582330fe77f4726604d362dc8": {
+        "prompt": "include a dog running alongside",
+        "id": "fullset/subject-add/en/6d36627582330fe77f4726604d362dc8.png",
+        "edit_type": "subject-add"
+    },
+    "5792877c20ccb8c8dfa7a2e3ea570c86": {
+        "prompt": "include a candle on top of the cake",
+        "id": "fullset/subject-add/en/5792877c20ccb8c8dfa7a2e3ea570c86.png",
+        "edit_type": "subject-add"
+    },
+    "d23b4b1af3a519ef6c3d5deb2ae171fd": {
+        "prompt": "include a butterfly landing on its mane",
+        "id": "fullset/subject-add/en/d23b4b1af3a519ef6c3d5deb2ae171fd.png",
+        "edit_type": "subject-add"
+    },
+    "4c2bf9769840edd7015a3cbea40f10cc": {
+        "prompt": "add a tennis ball flying towards her",
+        "id": "fullset/subject-add/en/4c2bf9769840edd7015a3cbea40f10cc.png",
+        "edit_type": "subject-add"
+    },
+    "071bd732edfb657a3baf47a13477c0ff": {
+        "prompt": "add a tennis ball next to the dog",
+        "id": "fullset/subject-add/en/071bd732edfb657a3baf47a13477c0ff.png",
+        "edit_type": "subject-add"
+    },
+    "c884913a9bec1ac33d16e85b252c39c5": {
+        "prompt": "Add a running horse near the train",
+        "id": "fullset/subject-add/en/c884913a9bec1ac33d16e85b252c39c5.png",
+        "edit_type": "subject-add"
+    },
+    "e9ac3ec18e91f8bf73b340de1c2e459e": {
+        "prompt": "add a person standing next to the bus",
+        "id": "fullset/subject-add/en/e9ac3ec18e91f8bf73b340de1c2e459e.png",
+        "edit_type": "subject-add"
+    },
+    "91ab4a87f04b6e652fe4e0bfba31ddc3": {
+        "prompt": "Add an image of Naruto on the left side.",
+        "id": "fullset/subject-add/en/91ab4a87f04b6e652fe4e0bfba31ddc3.png",
+        "edit_type": "subject-add"
+    },
+    "3cac5f0141378133b6c02c69bb7349fc": {
+        "prompt": "Add a robot bird in the sky.",
+        "id": "fullset/subject-add/en/3cac5f0141378133b6c02c69bb7349fc.png",
+        "edit_type": "subject-add"
+    },
+    "853784745a3c52dcfd24cf3a8dba1f56": {
+        "prompt": "Light the candle to enhance the candlelight.",
+        "id": "fullset/subject-add/en/853784745a3c52dcfd24cf3a8dba1f56.png",
+        "edit_type": "subject-add"
+    },
+    "707d83474b3e137e378c02b23ee414ae": {
+        "prompt": "Add a pair of sunglasses in a cool style.",
+        "id": "fullset/subject-add/en/707d83474b3e137e378c02b23ee414ae.png",
+        "edit_type": "subject-add"
+    },
+    "ba40f1be938b26d2ddec5cb966453720": {
+        "prompt": "Can you Photoshop a girlfriend for me? Sitting alone is boring, and I\u2019ve already left space for her.",
+        "id": "fullset/subject-add/en/ba40f1be938b26d2ddec5cb966453720.png",
+        "edit_type": "subject-add"
+    },
+    "f35092d58408ce805d5778fd13ad950c": {
+        "prompt": "Can you Photoshop a boyfriend for me? I want a couple\u2019s photo.",
+        "id": "fullset/subject-add/en/f35092d58408ce805d5778fd13ad950c.png",
+        "edit_type": "subject-add"
+    },
+    "ab6798a5e2a8e04de9bdb02c9425d2a9": {
+        "prompt": "Add more hair to the front, making it long and soft for a gentle look.",
+        "id": "fullset/subject-add/en/ab6798a5e2a8e04de9bdb02c9425d2a9.png",
+        "edit_type": "subject-add"
+    },
+    "3ec57ad1669a3841f18e151a487bc767": {
+        "prompt": "Add glasses in an intellectual style, giving a high-knowledgeable vibe.",
+        "id": "fullset/subject-add/en/3ec57ad1669a3841f18e151a487bc767.png",
+        "edit_type": "subject-add"
+    },
+    "9435ef3cbe961ecde654fdde42598cb1": {
+        "prompt": "Place a wine glass in the hand.",
+        "id": "fullset/subject-add/en/9435ef3cbe961ecde654fdde42598cb1.png",
+        "edit_type": "subject-add"
+    },
+    "10d6161cc1bebeeb0d7c5cac99a3cafd": {
+        "prompt": "Add a large diamond ring on the finger, making it abstract, exaggerated, and funny.",
+        "id": "fullset/subject-add/en/10d6161cc1bebeeb0d7c5cac99a3cafd.png",
+        "edit_type": "subject-add"
+    },
+    "794bc25fba24e9c7546c7ffed818fba1": {
+        "prompt": "Can you add penguin eyes to this image?",
+        "id": "fullset/subject-add/en/794bc25fba24e9c7546c7ffed818fba1.png",
+        "edit_type": "subject-add"
+    },
+    "d211b4a29bbfc174b2ef48c6574c5dff": {
+        "prompt": "Generate an image where a lit tent is added next to the appliances in the picture while keeping the original appliances intact.",
+        "id": "fullset/subject-add/en/d211b4a29bbfc174b2ef48c6574c5dff.png",
+        "edit_type": "subject-add"
+    },
+    "6a498187c524c7adb7a739413c24f185": {
+        "prompt": "Add three persimmons with leaves in the bottom right corner of this painting.",
+        "id": "fullset/subject-add/en/6a498187c524c7adb7a739413c24f185.png",
+        "edit_type": "subject-add"
+    },
+    "ec55ed4412ff3a74e6e4b42b21371fb1": {
+        "prompt": "Add clothes to the person in the image, make their gaze slightly disdainful, and change their posture to a crossed-leg position.",
+        "id": "fullset/subject-add/en/ec55ed4412ff3a74e6e4b42b21371fb1.png",
+        "edit_type": "subject-add"
+    },
+    "dd8355aceecda1bed1594a616b40cd11": {
+        "prompt": "Add stockings.",
+        "id": "fullset/subject-add/en/dd8355aceecda1bed1594a616b40cd11.png",
+        "edit_type": "subject-add"
+    },
+    "1f58ceef62aecf90fcca4f253c5a478b": {
+        "prompt": "Add firearms to the character in the image, turning them into a comedic depiction of a robber, and change the background to a bank.",
+        "id": "fullset/subject-add/en/1f58ceef62aecf90fcca4f253c5a478b.png",
+        "edit_type": "subject-add"
+    },
+    "720454d83c65f03eefe4cb6da5d706df": {
+        "prompt": "Add a puppy to this picture leaning against the girl's legs.",
+        "id": "fullset/subject-add/en/720454d83c65f03eefe4cb6da5d706df.png",
+        "edit_type": "subject-add"
+    },
+    "ae62baf786ccbe623b41109c0bda4add": {
+        "prompt": "Add a beautiful woman to accompany the boyfriend in the image.",
+        "id": "fullset/subject-add/en/ae62baf786ccbe623b41109c0bda4add.png",
+        "edit_type": "subject-add"
+    },
+    "30ecaf9734421b7085c536d7f9837ec7": {
+        "prompt": "Add a young Chinese woman next to the character in the image, with a bright smile and a pure, natural look, without altering the original character.",
+        "id": "fullset/subject-add/en/30ecaf9734421b7085c536d7f9837ec7.png",
+        "edit_type": "subject-add"
+    },
+    "be980c50b5cdfb9ede40c6d71769d2c9": {
+        "prompt": "Add a wool coat to the person in the image.",
+        "id": "fullset/subject-add/en/be980c50b5cdfb9ede40c6d71769d2c9.png",
+        "edit_type": "subject-add"
+    },
+    "abf17f7fd44b495e38da17423b1bbd49": {
+        "prompt": "Add a woman with her back to the camera to the left of the man in white clothes.",
+        "id": "fullset/subject-add/en/abf17f7fd44b495e38da17423b1bbd49.png",
+        "edit_type": "subject-add"
+    },
+    "2155f844beb949faa389c83bd4173a6c": {
+        "prompt": "Add a chair in the background.",
+        "id": "fullset/subject-add/en/2155f844beb949faa389c83bd4173a6c.png",
+        "edit_type": "subject-add"
+    },
+    "761a6bf01b28d3785d5ab04afa45e7a9": {
+        "prompt": "Add a potted green plant to the right of the sofa.",
+        "id": "fullset/subject-add/en/761a6bf01b28d3785d5ab04afa45e7a9.png",
+        "edit_type": "subject-add"
+    },
+    "540034b428e3c61e8d5a59e3fbba46aa": {
+        "prompt": "Add an elderly woman with gray hair on the right side of the image.",
+        "id": "fullset/subject-add/en/540034b428e3c61e8d5a59e3fbba46aa.png",
+        "edit_type": "subject-add"
+    },
+    "0523f1c34d1e3312d85b938a7c329885": {
+        "prompt": "Add a balloon decoration strip below the airplane.",
+        "id": "fullset/subject-add/en/0523f1c34d1e3312d85b938a7c329885.png",
+        "edit_type": "subject-add"
+    },
+    "69a8b2a59f6d83aab9101d895bc0e10f": {
+        "prompt": "Add a water bottle on the table.",
+        "id": "fullset/subject-add/en/69a8b2a59f6d83aab9101d895bc0e10f.png",
+        "edit_type": "subject-add"
+    },
+    "0fd3b576ec3f9873767eb7348c78ead2": {
+        "prompt": "Add a smiling girl.",
+        "id": "fullset/subject-add/en/0fd3b576ec3f9873767eb7348c78ead2.png",
+        "edit_type": "subject-add"
+    },
+    "5fe0c103a59eabd95012374edf3d298e": {
+        "prompt": "Dress the girl in black shorts.",
+        "id": "fullset/subject-add/en/5fe0c103a59eabd95012374edf3d298e.png",
+        "edit_type": "subject-add"
+    },
+    "bcb9d7a80eaf8a5f630cc78b6bce0b6c": {
+        "prompt": "Add two small dogs sitting face-to-face in the foreground.",
+        "id": "fullset/subject-add/en/bcb9d7a80eaf8a5f630cc78b6bce0b6c.png",
+        "edit_type": "subject-add"
+    },
+    "0b54f659bd2b2ecd02c1070331cd0c92": {
+        "prompt": "Add a groom to the left of the bride, with the two gazing into each other\u2019s eyes.",
+        "id": "fullset/subject-add/en/0b54f659bd2b2ecd02c1070331cd0c92.png",
+        "edit_type": "subject-add"
+    },
+    "db01713497b149ee87ed7ef66313f122": {
+        "prompt": "Add a golden crystal glass ball.",
+        "id": "fullset/subject-add/en/db01713497b149ee87ed7ef66313f122.png",
+        "edit_type": "subject-add"
+    },
+    "ee87afcee5619d39abcbc36cd87391d4": {
+        "prompt": "Add a boy wearing headphones operating a laptop in front of the computer.",
+        "id": "fullset/subject-add/en/ee87afcee5619d39abcbc36cd87391d4.png",
+        "edit_type": "subject-add"
+    },
+    "4000f5cdc69f67b283228009f51133fa": {
+        "prompt": "Add a blue feathered helmet.",
+        "id": "fullset/subject-add/en/4000f5cdc69f67b283228009f51133fa.png",
+        "edit_type": "subject-add"
+    },
+    "0ed1540807e373893280ce44287a9838": {
+        "prompt": "Change the hair from a ponytail to naturally draping over the shoulders.",
+        "id": "fullset/subject-add/en/0ed1540807e373893280ce44287a9838.png",
+        "edit_type": "subject-add"
+    },
+    "30f6aa209359ab7d115d232b1313a047": {
+        "prompt": "Add a face mask to the chef's face.",
+        "id": "fullset/subject-add/en/30f6aa209359ab7d115d232b1313a047.png",
+        "edit_type": "subject-add"
+    },
+    "cf2612adda4cc638132a60a2857a6cc5": {
+        "prompt": "Add a disposable cup on the left side of the foreground.",
+        "id": "fullset/subject-add/en/cf2612adda4cc638132a60a2857a6cc5.png",
+        "edit_type": "subject-add"
+    },
+    "09329f999a34f60db2047904ffe6cf0b": {
+        "prompt": "Add a black short-sleeved T-shirt to the upper body of the person.",
+        "id": "fullset/subject-add/en/09329f999a34f60db2047904ffe6cf0b.png",
+        "edit_type": "subject-add"
+    },
+    "61e0b78dbfbf640f62447931c8c45a9a": {
+        "prompt": "Add a painting to the easel.",
+        "id": "fullset/subject-add/en/61e0b78dbfbf640f62447931c8c45a9a.png",
+        "edit_type": "subject-add"
+    },
+    "0f0d1e81bb1308e2bbc57ea3c32d5f31": {
+        "prompt": "Add a guitar to the girl\u2019s hands and adjust her hand and arm positions to fit the guitar.",
+        "id": "fullset/subject-add/en/0f0d1e81bb1308e2bbc57ea3c32d5f31.png",
+        "edit_type": "subject-add"
+    },
+    "815fc87e5633ec77855c468746d08773": {
+        "prompt": "Add a lit green desk lamp to the image.",
+        "id": "fullset/subject-add/en/815fc87e5633ec77855c468746d08773.png",
+        "edit_type": "subject-add"
+    },
+    "c2330eaa58378dd8d76989053fe27cdc": {
+        "prompt": "remove the fedora on the bench",
+        "id": "fullset/subject-remove/en/c2330eaa58378dd8d76989053fe27cdc.png",
+        "edit_type": "subject-remove"
+    },
+    "fc610a23a5c9ac5c4a3c2cc0386bc8d2": {
+        "prompt": "remove the freight train",
+        "id": "fullset/subject-remove/en/fc610a23a5c9ac5c4a3c2cc0386bc8d2.png",
+        "edit_type": "subject-remove"
+    },
+    "2d762cc12344718236b171a19417adf5": {
+        "prompt": "remove the sign that measures height",
+        "id": "fullset/subject-remove/en/2d762cc12344718236b171a19417adf5.png",
+        "edit_type": "subject-remove"
+    },
+    "ea887a20c2483ba77f0f0fdfabf83f34": {
+        "prompt": "erase the stop sign",
+        "id": "fullset/subject-remove/en/ea887a20c2483ba77f0f0fdfabf83f34.png",
+        "edit_type": "subject-remove"
+    },
+    "79e800c9187225a020bef26413014de3": {
+        "prompt": "remove the dog getting a haircut",
+        "id": "fullset/subject-remove/en/79e800c9187225a020bef26413014de3.png",
+        "edit_type": "subject-remove"
+    },
+    "1b05dbce0dc0e981e4eb38b27c2c0167": {
+        "prompt": "remove the stuffed animals",
+        "id": "fullset/subject-remove/en/1b05dbce0dc0e981e4eb38b27c2c0167.png",
+        "edit_type": "subject-remove"
+    },
+    "ca3ce49b08db0d75388197210fed5157": {
+        "prompt": "remove the black hat",
+        "id": "fullset/subject-remove/en/ca3ce49b08db0d75388197210fed5157.png",
+        "edit_type": "subject-remove"
+    },
+    "e0e6c00cd4573be9dd571854cf362d24": {
+        "prompt": "remove the person wearing all white standing on their ski's",
+        "id": "fullset/subject-remove/en/e0e6c00cd4573be9dd571854cf362d24.png",
+        "edit_type": "subject-remove"
+    },
+    "3d1bf910852585afdb6fe2a9c9b24d6b": {
+        "prompt": "remove the motorcycle",
+        "id": "fullset/subject-remove/en/3d1bf910852585afdb6fe2a9c9b24d6b.png",
+        "edit_type": "subject-remove"
+    },
+    "6d3f5e90a64806a7b3170d71a6dd0fbe": {
+        "prompt": "remove the peanuts",
+        "id": "fullset/subject-remove/en/6d3f5e90a64806a7b3170d71a6dd0fbe.png",
+        "edit_type": "subject-remove"
+    },
+    "90f506d94854bce0e7cfe3d7f015c4b2": {
+        "prompt": "remove the frisbee",
+        "id": "fullset/subject-remove/en/90f506d94854bce0e7cfe3d7f015c4b2.png",
+        "edit_type": "subject-remove"
+    },
+    "fb492dc225f9ba92079731774b91ac8e": {
+        "prompt": "remove the meat pie",
+        "id": "fullset/subject-remove/en/fb492dc225f9ba92079731774b91ac8e.png",
+        "edit_type": "subject-remove"
+    },
+    "834b9cd34b6c6c201ad42bb00eba10eb": {
+        "prompt": "remove the pizza",
+        "id": "fullset/subject-remove/en/834b9cd34b6c6c201ad42bb00eba10eb.png",
+        "edit_type": "subject-remove"
+    },
+    "856b6b373fe9f39644456d5810cb9042": {
+        "prompt": "remove the skateboard",
+        "id": "fullset/subject-remove/en/856b6b373fe9f39644456d5810cb9042.png",
+        "edit_type": "subject-remove"
+    },
+    "9e563953afc8bcce1d0ad908e47f8006": {
+        "prompt": "remove the woman standing next to the lady in white.",
+        "id": "fullset/subject-remove/en/9e563953afc8bcce1d0ad908e47f8006.png",
+        "edit_type": "subject-remove"
+    },
+    "7bacd70f8819d2444bcf5e0676b14a67": {
+        "prompt": "erase the zebra",
+        "id": "fullset/subject-remove/en/7bacd70f8819d2444bcf5e0676b14a67.png",
+        "edit_type": "subject-remove"
+    },
+    "e0f2fafb11805800995f38cb327d905b": {
+        "prompt": "remove the umbrella",
+        "id": "fullset/subject-remove/en/e0f2fafb11805800995f38cb327d905b.png",
+        "edit_type": "subject-remove"
+    },
+    "e5407a415cc85180f2decb76a9529b6e": {
+        "prompt": "remove the woman",
+        "id": "fullset/subject-remove/en/e5407a415cc85180f2decb76a9529b6e.png",
+        "edit_type": "subject-remove"
+    },
+    "dd328e27b6f2b6871f6be99c414717a9": {
+        "prompt": "delete the broccoli",
+        "id": "fullset/subject-remove/en/dd328e27b6f2b6871f6be99c414717a9.png",
+        "edit_type": "subject-remove"
+    },
+    "5d9a5910b296328accc6701096c16a5b": {
+        "prompt": "erase the knife on the cutting board",
+        "id": "fullset/subject-remove/en/5d9a5910b296328accc6701096c16a5b.png",
+        "edit_type": "subject-remove"
+    },
+    "ae3bf75e9abe53ab8e24052ef129d1ef": {
+        "prompt": "Replace the sword in Sasuke\u2019s hand with a rainbow unicorn hammer.",
+        "id": "fullset/subject-replace/en/ae3bf75e9abe53ab8e24052ef129d1ef.png",
+        "edit_type": "subject-replace"
+    },
+    "bc8d567ee91ca1521adaa8d4a486851f": {
+        "prompt": "Replace the face in the picture with a blonde beauty.",
+        "id": "fullset/subject-replace/en/bc8d567ee91ca1521adaa8d4a486851f.png",
+        "edit_type": "subject-replace"
+    },
+    "2afdc3f8ccc9191b4b5854a9c4042092": {
+        "prompt": "Remove the bystanders; the background is cacti.",
+        "id": "fullset/subject-remove/en/2afdc3f8ccc9191b4b5854a9c4042092.png",
+        "edit_type": "subject-remove"
+    },
+    "202eccaba244927e87a17200a87e4406": {
+        "prompt": "Remove the magic wand and stars.",
+        "id": "fullset/subject-remove/en/202eccaba244927e87a17200a87e4406.png",
+        "edit_type": "subject-remove"
+    },
+    "6e59f1430e90396b7e08cb869274c426": {
+        "prompt": "Remove the white stockings.",
+        "id": "fullset/subject-remove/en/6e59f1430e90396b7e08cb869274c426.png",
+        "edit_type": "subject-remove"
+    },
+    "a9036279f412391d29bfd86fccd1606c": {
+        "prompt": "Remove the person from the image.",
+        "id": "fullset/subject-remove/en/a9036279f412391d29bfd86fccd1606c.png",
+        "edit_type": "subject-remove"
+    },
+    "071cbc925ee5f3fcc234d72bf5fbe182": {
+        "prompt": "Please remove the woman outside the car while keeping everything else intact, then re-output the image for me.",
+        "id": "fullset/subject-remove/en/071cbc925ee5f3fcc234d72bf5fbe182.png",
+        "edit_type": "subject-remove"
+    },
+    "39b5aeaeecceb845d41bc7beaf9319a3": {
+        "prompt": "Remove the person in the middle of the image.",
+        "id": "fullset/subject-remove/en/39b5aeaeecceb845d41bc7beaf9319a3.png",
+        "edit_type": "subject-remove"
+    },
+    "dc1fb90b41f4c01c16cc351575bc9461": {
+        "prompt": "Remove the beard from the person while keeping everything else unchanged.",
+        "id": "fullset/subject-remove/en/dc1fb90b41f4c01c16cc351575bc9461.png",
+        "edit_type": "subject-remove"
+    },
+    "8e02b0e258dcb5c6af860af239ea35be": {
+        "prompt": "Remove the clutter from the photo.",
+        "id": "fullset/subject-remove/en/8e02b0e258dcb5c6af860af239ea35be.png",
+        "edit_type": "subject-remove"
+    },
+    "be1f3d0f398433eaf3f9cf9a931402a3": {
+        "prompt": "Remove all the people.",
+        "id": "fullset/subject-remove/en/be1f3d0f398433eaf3f9cf9a931402a3.png",
+        "edit_type": "subject-remove"
+    },
+    "1e62ce17d24426272c11bd47906afba7": {
+        "prompt": "Remove the red section at the bottom of the image.",
+        "id": "fullset/subject-remove/en/1e62ce17d24426272c11bd47906afba7.png",
+        "edit_type": "subject-remove"
+    },
+    "cd5e2a6dd0f762849943fede284c4516": {
+        "prompt": "Enhance this image by removing the distant power lines while maintaining a realistic style.",
+        "id": "fullset/subject-remove/en/cd5e2a6dd0f762849943fede284c4516.png",
+        "edit_type": "subject-remove"
+    },
+    "b5729b790593f7065bf7ae2f7674c1e2": {
+        "prompt": "Remove the bangs.",
+        "id": "fullset/subject-remove/en/b5729b790593f7065bf7ae2f7674c1e2.png",
+        "edit_type": "subject-remove"
+    },
+    "1110b6bc43aa5a3037467f5833ece3c5": {
+        "prompt": "Remove the snake pattern from the image.",
+        "id": "fullset/subject-remove/en/1110b6bc43aa5a3037467f5833ece3c5.png",
+        "edit_type": "subject-remove"
+    },
+    "56b9020b542342972a3a796ee802ca95": {
+        "prompt": "Remove the phone from the person\u2019s hand.",
+        "id": "fullset/subject-remove/en/56b9020b542342972a3a796ee802ca95.png",
+        "edit_type": "subject-remove"
+    },
+    "ddb40f4b94e2f60fc92815cfd89546c7": {
+        "prompt": "Remove the black railing.",
+        "id": "fullset/subject-remove/en/ddb40f4b94e2f60fc92815cfd89546c7.png",
+        "edit_type": "subject-remove"
+    },
+    "f9418062962373f7646b359d32c2526a": {
+        "prompt": "Delete the man wearing a white robe.",
+        "id": "fullset/subject-remove/en/f9418062962373f7646b359d32c2526a.png",
+        "edit_type": "subject-remove"
+    },
+    "23663821d9be6aba1d8100daffdb15cb": {
+        "prompt": "Remove the person from the top of the boat cabin.",
+        "id": "fullset/subject-remove/en/23663821d9be6aba1d8100daffdb15cb.png",
+        "edit_type": "subject-remove"
+    },
+    "64c8ea3004fb830615591121c1cebe6a": {
+        "prompt": "Remove the glasses.",
+        "id": "fullset/subject-remove/en/64c8ea3004fb830615591121c1cebe6a.png",
+        "edit_type": "subject-remove"
+    },
+    "08a671d4c5067a5659ea84cded659fd8": {
+        "prompt": "Delete the computer.",
+        "id": "fullset/subject-remove/en/08a671d4c5067a5659ea84cded659fd8.png",
+        "edit_type": "subject-remove"
+    },
+    "8752867086a665d8889f8134703d92b0": {
+        "prompt": "Remove the music stand and sheet music from the stage.",
+        "id": "fullset/subject-remove/en/8752867086a665d8889f8134703d92b0.png",
+        "edit_type": "subject-remove"
+    },
+    "99cc761cfc9689c2ffff606e41832371": {
+        "prompt": "Remove the railing in the background.",
+        "id": "fullset/subject-remove/en/99cc761cfc9689c2ffff606e41832371.png",
+        "edit_type": "subject-remove"
+    },
+    "600884cc7c2be67d2ecf5517fea512c2": {
+        "prompt": "Remove the bouquet from the left foreground.",
+        "id": "fullset/subject-remove/en/600884cc7c2be67d2ecf5517fea512c2.png",
+        "edit_type": "subject-remove"
+    },
+    "cf3daa2e86bcd3cc867204e5edb938bf": {
+        "prompt": "Delete the pen from the woman\u2019s hand in the foreground.",
+        "id": "fullset/subject-remove/en/cf3daa2e86bcd3cc867204e5edb938bf.png",
+        "edit_type": "subject-remove"
+    },
+    "c59adebb1dc6ecf43d658c1a4b7674ee": {
+        "prompt": "Remove the bicycle between the two people.",
+        "id": "fullset/subject-remove/en/c59adebb1dc6ecf43d658c1a4b7674ee.png",
+        "edit_type": "subject-remove"
+    },
+    "fe511143bd74c0262075af599364dbcc": {
+        "prompt": "Remove the girl inside the window.",
+        "id": "fullset/subject-remove/en/fe511143bd74c0262075af599364dbcc.png",
+        "edit_type": "subject-remove"
+    },
+    "2ebb31e51f0de8bba7005352df7150b8": {
+        "prompt": "Remove the person in the distance wearing red clothes and a green backpack.",
+        "id": "fullset/subject-remove/en/2ebb31e51f0de8bba7005352df7150b8.png",
+        "edit_type": "subject-remove"
+    },
+    "ce693a75c84f7c0f2975c6cc50f2af9e": {
+        "prompt": "Remove the Christmas tree on the left side of the image.",
+        "id": "fullset/subject-remove/en/ce693a75c84f7c0f2975c6cc50f2af9e.png",
+        "edit_type": "subject-remove"
+    },
+    "f5d8129b33eaf3adcaad19ba2d471529": {
+        "prompt": "Remove the sticky notes next to the monitor.",
+        "id": "fullset/subject-remove/en/f5d8129b33eaf3adcaad19ba2d471529.png",
+        "edit_type": "subject-remove"
+    },
+    "17f4fec8b5c096e4ee3e8f168f93d05d": {
+        "prompt": "Delete the red headscarf.",
+        "id": "fullset/subject-remove/en/17f4fec8b5c096e4ee3e8f168f93d05d.png",
+        "edit_type": "subject-remove"
+    },
+    "cdafebec5ad18102bb9f2f9eccac053f": {
+        "prompt": "Remove the red dumbbell.",
+        "id": "fullset/subject-remove/en/cdafebec5ad18102bb9f2f9eccac053f.png",
+        "edit_type": "subject-remove"
+    },
+    "774befadbd2459f532eb3e9bc2dca051": {
+        "prompt": "Remove the two bottles of alcohol on the left side of the image.",
+        "id": "fullset/subject-remove/en/774befadbd2459f532eb3e9bc2dca051.png",
+        "edit_type": "subject-remove"
+    },
+    "8d0bc807846ac304d0b02ac5588c646d": {
+        "prompt": "Delete the white fence.",
+        "id": "fullset/subject-remove/en/8d0bc807846ac304d0b02ac5588c646d.png",
+        "edit_type": "subject-remove"
+    },
+    "8853ec3095105930363c6c8c988f55e6": {
+        "prompt": "Remove the elderly man wearing glasses",
+        "id": "fullset/subject-remove/en/8853ec3095105930363c6c8c988f55e6.png",
+        "edit_type": "subject-remove"
+    },
+    "16e59a89f37b5603a41fc60e2912a325": {
+        "prompt": "Delete the standing person wearing glasses.",
+        "id": "fullset/subject-remove/en/16e59a89f37b5603a41fc60e2912a325.png",
+        "edit_type": "subject-remove"
+    },
+    "453c8005733dd2b902343f7577818c7b": {
+        "prompt": "Remove the bracelets and wristbands from the woman\u2019s hand.",
+        "id": "fullset/subject-remove/en/453c8005733dd2b902343f7577818c7b.png",
+        "edit_type": "subject-remove"
+    },
+    "e1f901ce70f0db3eff231690b35a5e6f": {
+        "prompt": "Replace the dog with a robot.",
+        "id": "fullset/subject-replace/en/e1f901ce70f0db3eff231690b35a5e6f.png",
+        "edit_type": "subject-replace"
+    },
+    "b3143e1ac75799da45f66d12b56cf911": {
+        "prompt": "Replace the TV with a bookshelf.",
+        "id": "fullset/subject-replace/en/b3143e1ac75799da45f66d12b56cf911.png",
+        "edit_type": "subject-replace"
+    },
+    "119d3796737244a5dafa7513b373f64d": {
+        "prompt": "Replace the cat with a squirrel.",
+        "id": "fullset/subject-replace/en/119d3796737244a5dafa7513b373f64d.png",
+        "edit_type": "subject-replace"
+    },
+    "9c6128cce6d1f80b7185c7427d3e30b8": {
+        "prompt": "Replace the pizza with a croissant.",
+        "id": "fullset/subject-replace/en/9c6128cce6d1f80b7185c7427d3e30b8.png",
+        "edit_type": "subject-replace"
+    },
+    "906a0ffafbbf5f0dc51f01a4d2b7b7e3": {
+        "prompt": "Replace the cat on the laptop with a robot.",
+        "id": "fullset/subject-replace/en/906a0ffafbbf5f0dc51f01a4d2b7b7e3.png",
+        "edit_type": "subject-replace"
+    },
+    "f1eb6e2131f2e664890e7e7a6c27efd5": {
+        "prompt": "Replace the cat with a dog.",
+        "id": "fullset/subject-replace/en/f1eb6e2131f2e664890e7e7a6c27efd5.png",
+        "edit_type": "subject-replace"
+    },
+    "b8b9b70b9e2bce018e5e0d2bad7293bc": {
+        "prompt": "Replace the toilet with a bathtub.",
+        "id": "fullset/subject-replace/en/b8b9b70b9e2bce018e5e0d2bad7293bc.png",
+        "edit_type": "subject-replace"
+    },
+    "dcb09f6f95a11496ee03ea7c875ef481": {
+        "prompt": "Replace the bear with a fox.",
+        "id": "fullset/subject-replace/en/dcb09f6f95a11496ee03ea7c875ef481.png",
+        "edit_type": "subject-replace"
+    },
+    "02bc73fdbbb74f6ed7fd480b6b61abe8": {
+        "prompt": "Replace the bus with a truck.",
+        "id": "fullset/subject-replace/en/02bc73fdbbb74f6ed7fd480b6b61abe8.png",
+        "edit_type": "subject-replace"
+    },
+    "6c5513204cc1970d65864e87f5c9444b": {
+        "prompt": "Replace the dog with a rabbit.",
+        "id": "fullset/subject-replace/en/6c5513204cc1970d65864e87f5c9444b.png",
+        "edit_type": "subject-replace"
+    },
+    "efffd701b3207dee94a8d7009bbc9c75": {
+        "prompt": "Replace the school bus with a truck.",
+        "id": "fullset/subject-replace/en/efffd701b3207dee94a8d7009bbc9c75.png",
+        "edit_type": "subject-replace"
+    },
+    "99303b3de6bf596a47ecf83b25b08db5": {
+        "prompt": "Replace the vase with a sculpture.",
+        "id": "fullset/subject-replace/en/99303b3de6bf596a47ecf83b25b08db5.png",
+        "edit_type": "subject-replace"
+    },
+    "1eaed2671a534749a7c6a02a3d3e5f82": {
+        "prompt": "Replace the cat with a fish.",
+        "id": "fullset/subject-replace/en/1eaed2671a534749a7c6a02a3d3e5f82.png",
+        "edit_type": "subject-replace"
+    },
+    "a88fd018f656ea701330c3fc14c1e8d0": {
+        "prompt": "Replace the bus with an ambulance.",
+        "id": "fullset/subject-replace/en/a88fd018f656ea701330c3fc14c1e8d0.png",
+        "edit_type": "subject-replace"
+    },
+    "23b240c9ef94ecae6ad0b992b3d08034": {
+        "prompt": "Replace the zebra with a giraffe.",
+        "id": "fullset/subject-replace/en/23b240c9ef94ecae6ad0b992b3d08034.png",
+        "edit_type": "subject-replace"
+    },
+    "2d3bd0d5db244d8fc89c9348fcb07d19": {
+        "prompt": "Replace the cake with a pie.",
+        "id": "fullset/subject-replace/en/2d3bd0d5db244d8fc89c9348fcb07d19.png",
+        "edit_type": "subject-replace"
+    },
+    "d5f8ef8ebda32869bfc8b7fefc88f364": {
+        "prompt": "Replace the bed with a sofa.",
+        "id": "fullset/subject-replace/en/d5f8ef8ebda32869bfc8b7fefc88f364.png",
+        "edit_type": "subject-replace"
+    },
+    "7a6e67b7d9c028d3d1bbef91483c26a6": {
+        "prompt": "Replace the elephant with a giraffe.",
+        "id": "fullset/subject-replace/en/7a6e67b7d9c028d3d1bbef91483c26a6.png",
+        "edit_type": "subject-replace"
+    },
+    "469267bfc120943d28e93b6ecefe14af": {
+        "prompt": "Replace the eagle with a parrot.",
+        "id": "fullset/subject-replace/en/469267bfc120943d28e93b6ecefe14af.png",
+        "edit_type": "subject-replace"
+    },
+    "7d15844945eb5e5dc00c219740f028d3": {
+        "prompt": "Replace the baby with a puppy.",
+        "id": "fullset/subject-replace/en/7d15844945eb5e5dc00c219740f028d3.png",
+        "edit_type": "subject-replace"
+    },
+    "9d913d98a00d6b3a4088bdceb2232b89": {
+        "prompt": "Change the cat\u2019s collar into a bell.",
+        "id": "fullset/subject-replace/en/9d913d98a00d6b3a4088bdceb2232b89.png",
+        "edit_type": "subject-replace"
+    },
+    "038b15558b1082c59f0a92e4853554aa": {
+        "prompt": "Replace the bracelet with a jade bangle.",
+        "id": "fullset/subject-replace/en/038b15558b1082c59f0a92e4853554aa.png",
+        "edit_type": "subject-replace"
+    },
+    "b3f022593999c27290201be31f9e6f1b": {
+        "prompt": "Change the food into seafood paella.",
+        "id": "fullset/subject-replace/en/b3f022593999c27290201be31f9e6f1b.png",
+        "edit_type": "subject-replace"
+    },
+    "08ea4b4086ac3690f6aa0ab47d0da30f": {
+        "prompt": "Swap the earring for one that looks less conspicuous.",
+        "id": "fullset/subject-replace/en/08ea4b4086ac3690f6aa0ab47d0da30f.png",
+        "edit_type": "subject-replace"
+    },
+    "ab7edde74c02708a661f6861144cbe95": {
+        "prompt": "Turn the rice into a hamburger and draw an avatar eating a burger.",
+        "id": "fullset/subject-replace/en/ab7edde74c02708a661f6861144cbe95.png",
+        "edit_type": "subject-replace"
+    },
+    "e5c8aea1b4db7ee5e173bcc122a4ba8f": {
+        "prompt": "This is an ID photo\u2014please replace the clothing with a white dress shirt.",
+        "id": "fullset/subject-replace/en/e5c8aea1b4db7ee5e173bcc122a4ba8f.png",
+        "edit_type": "subject-replace"
+    },
+    "2bf9fc7119ba64e9bb1579221e788885": {
+        "prompt": "Give her a different outfit.",
+        "id": "fullset/subject-replace/en/2bf9fc7119ba64e9bb1579221e788885.png",
+        "edit_type": "subject-replace"
+    },
+    "50bf17e2335463ccb3511f5164ed1af0": {
+        "prompt": "Replace the food in the pot with spicy hot pot.",
+        "id": "fullset/subject-replace/en/50bf17e2335463ccb3511f5164ed1af0.png",
+        "edit_type": "subject-replace"
+    },
+    "b049c18444079151e9be5a640f9fe552": {
+        "prompt": "Change my hairstyle to a wolf-cut mullet.",
+        "id": "fullset/subject-replace/en/b049c18444079151e9be5a640f9fe552.png",
+        "edit_type": "subject-replace"
+    },
+    "0051b688bcfc65a4fc1063488eb9da0c": {
+        "prompt": "Turn the sleeves into ramen and chopped scallions.",
+        "id": "fullset/subject-replace/en/0051b688bcfc65a4fc1063488eb9da0c.png",
+        "edit_type": "subject-replace"
+    },
+    "3de02fadd75720177fa70f42f743a48f": {
+        "prompt": "Change the man's hairstyle to a textured fringe cut.",
+        "id": "fullset/subject-replace/en/3de02fadd75720177fa70f42f743a48f.png",
+        "edit_type": "subject-replace"
+    },
+    "b993cccb7c8b197175226e397a0f09a8": {
+        "prompt": "Dress the person in the image in a Zhongshan suit.",
+        "id": "fullset/subject-replace/en/b993cccb7c8b197175226e397a0f09a8.png",
+        "edit_type": "subject-replace"
+    },
+    "1a0f5ee01be70d234093e91bae2282d7": {
+        "prompt": "Give me long hair\u2014shoulder-length or waist-length.",
+        "id": "fullset/subject-replace/en/1a0f5ee01be70d234093e91bae2282d7.png",
+        "edit_type": "subject-replace"
+    },
+    "70fa37d482c2e708435366323262de90": {
+        "prompt": "Turn the tree branches in the image into a witch\u2019s magic wand.",
+        "id": "fullset/subject-replace/en/70fa37d482c2e708435366323262de90.png",
+        "edit_type": "subject-replace"
+    },
+    "93e3bdd834cb2924864675b3dc5de9e5": {
+        "prompt": "Extract the person from the photo and dress them in a police uniform.",
+        "id": "fullset/subject-replace/en/93e3bdd834cb2924864675b3dc5de9e5.png",
+        "edit_type": "subject-replace"
+    },
+    "0a92bb3a2f79ce8f79a6818701b95efa": {
+        "prompt": "Change the character into a male.",
+        "id": "fullset/subject-replace/en/0a92bb3a2f79ce8f79a6818701b95efa.png",
+        "edit_type": "subject-replace"
+    },
+    "e70f54aa5e32ff6a11a512a4b6ebc734": {
+        "prompt": "Replace the person in the image with Spider-Man.",
+        "id": "fullset/subject-replace/en/e70f54aa5e32ff6a11a512a4b6ebc734.png",
+        "edit_type": "subject-replace"
+    },
+    "a231523c745863eb34887202481d482b": {
+        "prompt": "Keep the person in the image but replace the cat with a dinosaur.",
+        "id": "fullset/subject-replace/en/a231523c745863eb34887202481d482b.png",
+        "edit_type": "subject-replace"
+    },
+    "6d45407dd52ca631efd3095a6f84c8b2": {
+        "prompt": "Replace the guitar in front of the fox with a can of Coca-Cola.",
+        "id": "fullset/subject-replace/en/6d45407dd52ca631efd3095a6f84c8b2.png",
+        "edit_type": "subject-replace"
+    },
+    "9658ab0654630bdb7d190f3f85280793": {
+        "prompt": "Swap the crystal in the child\u2019s hand for a glowing square box.",
+        "id": "fullset/subject-replace/en/9658ab0654630bdb7d190f3f85280793.png",
+        "edit_type": "subject-replace"
+    },
+    "645a7c81e22d496f62e8bbbd58ca309e": {
+        "prompt": "Replace the woman in the center of the image with a black helicopter.",
+        "id": "fullset/subject-replace/en/645a7c81e22d496f62e8bbbd58ca309e.png",
+        "edit_type": "subject-replace"
+    },
+    "41648ca74f9e782af1359397de7a6125": {
+        "prompt": "Change the crown on the cat\u2019s head into a magician\u2019s hat.",
+        "id": "fullset/subject-replace/en/41648ca74f9e782af1359397de7a6125.png",
+        "edit_type": "subject-replace"
+    },
+    "20766bfbcee8914213e479c5845a057f": {
+        "prompt": "Replace the wolf with a standing bear, and have the bear hold a lightsaber with both paws.",
+        "id": "fullset/subject-replace/en/20766bfbcee8914213e479c5845a057f.png",
+        "edit_type": "subject-replace"
+    },
+    "19e7dd610e2151dd4576490c7ece040f": {
+        "prompt": "Swap the bouquet in the woman\u2019s hand for a bottle of whiskey.",
+        "id": "fullset/subject-replace/en/19e7dd610e2151dd4576490c7ece040f.png",
+        "edit_type": "subject-replace"
+    },
+    "8e5ddf5d223b0e938f58da44752dbca7": {
+        "prompt": "Replace the fruits in the colander with tomatoes.",
+        "id": "fullset/subject-replace/en/8e5ddf5d223b0e938f58da44752dbca7.png",
+        "edit_type": "subject-replace"
+    },
+    "76fb2038377daf0ee1fe8efc57f7d6b3": {
+        "prompt": "Turn the samurai sword in the person's right hand into an axe.",
+        "id": "fullset/subject-replace/en/76fb2038377daf0ee1fe8efc57f7d6b3.png",
+        "edit_type": "subject-replace"
+    },
+    "47ee57134632cbbfd038acd9ae870779": {
+        "prompt": "Replace the two children with a fire truck.",
+        "id": "fullset/subject-replace/en/47ee57134632cbbfd038acd9ae870779.png",
+        "edit_type": "subject-replace"
+    },
+    "38424c921a89c3192404da23d54ce90d": {
+        "prompt": "Swap the brown teddy bear with a bag of \"Cricket\" chips.",
+        "id": "fullset/subject-replace/en/38424c921a89c3192404da23d54ce90d.png",
+        "edit_type": "subject-replace"
+    },
+    "0064d30c8f40ddd94fa9bc564677498e": {
+        "prompt": "Replace the person in the mirror wearing a white shirt with a wardrobe.",
+        "id": "fullset/subject-replace/en/0064d30c8f40ddd94fa9bc564677498e.png",
+        "edit_type": "subject-replace"
+    },
+    "a33f7ac94c028e30e9254363bb651331": {
+        "prompt": "Turn the baby\u2019s balloon into an ice cream cone.",
+        "id": "fullset/subject-replace/en/a33f7ac94c028e30e9254363bb651331.png",
+        "edit_type": "subject-replace"
+    },
+    "92feefc5a6c868f8e36f262a7a89f866": {
+        "prompt": "Replace the baby stroller with a large globe.",
+        "id": "fullset/subject-replace/en/92feefc5a6c868f8e36f262a7a89f866.png",
+        "edit_type": "subject-replace"
+    },
+    "f22a0046d07bf09f9e90b3eecb06e151": {
+        "prompt": "Change the painting on the scroll in the man\u2019s hand to a treasure map.",
+        "id": "fullset/subject-replace/en/f22a0046d07bf09f9e90b3eecb06e151.png",
+        "edit_type": "subject-replace"
+    },
+    "8d074f9906d22f1f4d48400fe47f74f0": {
+        "prompt": "Replace the pencil in the hand of the boy wearing an orange-striped shirt with an egg.",
+        "id": "fullset/subject-replace/en/8d074f9906d22f1f4d48400fe47f74f0.png",
+        "edit_type": "subject-replace"
+    },
+    "cef0d8358ad359678f9632380c3b5ac6": {
+        "prompt": "Swap the two grapefruit slices for VR goggles.",
+        "id": "fullset/subject-replace/en/cef0d8358ad359678f9632380c3b5ac6.png",
+        "edit_type": "subject-replace"
+    },
+    "3e15c35b58cee82be47ee8d927704dde": {
+        "prompt": "Replace the paintbrush in the foreground person's hand with a giraffe mask.",
+        "id": "fullset/subject-replace/en/3e15c35b58cee82be47ee8d927704dde.png",
+        "edit_type": "subject-replace"
+    },
+    "13829304257def7287613210cc82d6eb": {
+        "prompt": "Replace the green cup and its light-colored saucer on the table with a pen holder.",
+        "id": "fullset/subject-replace/en/13829304257def7287613210cc82d6eb.png",
+        "edit_type": "subject-replace"
+    },
+    "619ba60ef621caf9f1412bfa7a3eb5c1": {
+        "prompt": "Change the clothes of the girl on the left side of the image to a black-and-white striped dress.",
+        "id": "fullset/subject-replace/en/619ba60ef621caf9f1412bfa7a3eb5c1.png",
+        "edit_type": "subject-replace"
+    },
+    "fb4ebcdc742e1eb13c99f8f56e3a0cdb": {
+        "prompt": "Replace the laptop in front of the girl with a book.",
+        "id": "fullset/subject-replace/en/fb4ebcdc742e1eb13c99f8f56e3a0cdb.png",
+        "edit_type": "subject-replace"
+    },
+    "a8cd7b467259425ed1a369550b28340e": {
+        "prompt": "Replace the text 'Google' with 'Goose'",
+        "id": "fullset/text_change/en/a8cd7b467259425ed1a369550b28340e.png",
+        "edit_type": "text_change"
+    },
+    "9083ce3121a3d62c3fe3527e874760e5": {
+        "prompt": "Replace the text 'me' with 'he'",
+        "id": "fullset/text_change/en/9083ce3121a3d62c3fe3527e874760e5.png",
+        "edit_type": "text_change"
+    },
+    "680553ae15691f30c9f717b5eac38ee9": {
+        "prompt": "Replace the text 'LONDON' with 'ENGLAND'",
+        "id": "fullset/text_change/en/680553ae15691f30c9f717b5eac38ee9.png",
+        "edit_type": "text_change"
+    },
+    "de0dff21bb67b813d97dbe1709282a1f": {
+        "prompt": "Replace the text 'THE' with 'BUT'",
+        "id": "fullset/text_change/en/de0dff21bb67b813d97dbe1709282a1f.png",
+        "edit_type": "text_change"
+    },
+    "a64d376914f2bed3b2383d9af0965dcb": {
+        "prompt": "Replace the text 'DARK' with 'DUCK'",
+        "id": "fullset/text_change/en/a64d376914f2bed3b2383d9af0965dcb.png",
+        "edit_type": "text_change"
+    },
+    "9c5b7cba20568ccd142d8911e7a763c1": {
+        "prompt": "Replace the text 'ORION' with 'OREO'",
+        "id": "fullset/text_change/en/9c5b7cba20568ccd142d8911e7a763c1.png",
+        "edit_type": "text_change"
+    },
+    "9c626643de176f0b934842efe12893c1": {
+        "prompt": "Replace the text 'Science' with 'Nature'",
+        "id": "fullset/text_change/en/9c626643de176f0b934842efe12893c1.png",
+        "edit_type": "text_change"
+    },
+    "58679ee9aa7080c0d51c33e71375689c": {
+        "prompt": "Replace the text 'APEX' with 'CSGO'",
+        "id": "fullset/text_change/en/58679ee9aa7080c0d51c33e71375689c.png",
+        "edit_type": "text_change"
+    },
+    "3bba48b36d85fb45365ee57c188b71ea": {
+        "prompt": "Replace the text 'CS' with 'VALO' and replace 'GO' with 'RANT'",
+        "id": "fullset/text_change/en/3bba48b36d85fb45365ee57c188b71ea.png",
+        "edit_type": "text_change"
+    },
+    "6c106095dcb4224b3b3d74b4f89b8389": {
+        "prompt": "Replace the text 'VALORANT' with 'APEX'",
+        "id": "fullset/text_change/en/6c106095dcb4224b3b3d74b4f89b8389.png",
+        "edit_type": "text_change"
+    },
+    "e7e3e2de78380531a17b1edd36807135": {
+        "prompt": "Replace the text 'IELTS' with 'TOFEL'",
+        "id": "fullset/text_change/en/e7e3e2de78380531a17b1edd36807135.png",
+        "edit_type": "text_change"
+    },
+    "ffb7319fe2b8f2d222fb4ef38575d0f7": {
+        "prompt": "Replace the text 'TOFEL' with 'IELTS'",
+        "id": "fullset/text_change/en/ffb7319fe2b8f2d222fb4ef38575d0f7.png",
+        "edit_type": "text_change"
+    },
+    "0c8ea3779a6497c2b743c962a8231d1f": {
+        "prompt": "Replace the text 'duolingo' with 'greenowl'",
+        "id": "fullset/text_change/en/0c8ea3779a6497c2b743c962a8231d1f.png",
+        "edit_type": "text_change"
+    },
+    "4612dcee8805e9624abd52e616449ba5": {
+        "prompt": "Remove the text 'FREE'",
+        "id": "fullset/text_change/en/4612dcee8805e9624abd52e616449ba5.png",
+        "edit_type": "text_change"
+    },
+    "5e085566f105978483848cab2f3a7001": {
+        "prompt": "Replace the text 'TRAIN' with 'PLANE'",
+        "id": "fullset/text_change/en/5e085566f105978483848cab2f3a7001.png",
+        "edit_type": "text_change"
+    },
+    "89714e3ea9345ea5483ac6d5856915fe": {
+        "prompt": "Replace the text 'Salmon' with 'Sandwich'",
+        "id": "fullset/text_change/en/89714e3ea9345ea5483ac6d5856915fe.png",
+        "edit_type": "text_change"
+    },
+    "b43f20f42dbb3e169fabf75289627f98": {
+        "prompt": "Remove the text from the image",
+        "id": "fullset/text_change/en/b43f20f42dbb3e169fabf75289627f98.png",
+        "edit_type": "text_change"
+    },
+    "78ee992d292a3153df4d8d351f6256da": {
+        "prompt": "Remove the text from the image",
+        "id": "fullset/text_change/en/78ee992d292a3153df4d8d351f6256da.png",
+        "edit_type": "text_change"
+    },
+    "e3ca3edfa90133957ec703f6d54b293a": {
+        "prompt": "Replace the text 'KONG' with 'JING'",
+        "id": "fullset/text_change/en/e3ca3edfa90133957ec703f6d54b293a.png",
+        "edit_type": "text_change"
+    },
+    "c3e2d59003688478213a86fcee494bad": {
+        "prompt": "Replace the text 'lululemon' with 'lelolelol'",
+        "id": "fullset/text_change/en/c3e2d59003688478213a86fcee494bad.png",
+        "edit_type": "text_change"
+    },
+    "729973fc58cfbf36b439f77a9f23a175": {
+        "prompt": "Add 'SPRING' below the text '2025'",
+        "id": "fullset/text_change/en/729973fc58cfbf36b439f77a9f23a175.png",
+        "edit_type": "text_change"
+    },
+    "0cf1208c4cfe6b460aaa6c4e01af30a3": {
+        "prompt": "Replace the text 'NIPS' with 'CVPR'",
+        "id": "fullset/text_change/en/0cf1208c4cfe6b460aaa6c4e01af30a3.png",
+        "edit_type": "text_change"
+    },
+    "73c88cc5d9741cfbc0764304bbba00ed": {
+        "prompt": "Replace the text 'WOOD' with 'LAND'",
+        "id": "fullset/text_change/en/73c88cc5d9741cfbc0764304bbba00ed.png",
+        "edit_type": "text_change"
+    },
+    "0f7f956de6cdaff845d738075fa2fa16": {
+        "prompt": "Replace the text 'SUMMER' with 'WINTER'",
+        "id": "fullset/text_change/en/0f7f956de6cdaff845d738075fa2fa16.png",
+        "edit_type": "text_change"
+    },
+    "853bc02c90873ac8838e53ee11fa5ec3": {
+        "prompt": "Replace the text 'PIZZA' with 'PLAZA'",
+        "id": "fullset/text_change/en/853bc02c90873ac8838e53ee11fa5ec3.png",
+        "edit_type": "text_change"
+    },
+    "5b8fa6ad16fa1c442f0cf33437c8b310": {
+        "prompt": "Replace the text 'DARK' with 'MILK'",
+        "id": "fullset/text_change/en/5b8fa6ad16fa1c442f0cf33437c8b310.png",
+        "edit_type": "text_change"
+    },
+    "9897da315582be46de990e313d8e4a9b": {
+        "prompt": "Replace the text 'HELL'S' with 'HEAVEN'",
+        "id": "fullset/text_change/en/9897da315582be46de990e313d8e4a9b.png",
+        "edit_type": "text_change"
+    },
+    "334a1052afdb33ad9aebdc24406c46be": {
+        "prompt": "Replace the text 'BOWL' with 'FULL'",
+        "id": "fullset/text_change/en/334a1052afdb33ad9aebdc24406c46be.png",
+        "edit_type": "text_change"
+    },
+    "7bdeb9f23a8c11688f33f968ee27be4d": {
+        "prompt": "Replace the text 'PROJECT' with 'PROMPT'",
+        "id": "fullset/text_change/en/7bdeb9f23a8c11688f33f968ee27be4d.png",
+        "edit_type": "text_change"
+    },
+    "f9f802a2b603002b098e3e7590f45661": {
+        "prompt": "Replace the text 'NATURE' with 'SCIENCE'",
+        "id": "fullset/text_change/en/f9f802a2b603002b098e3e7590f45661.png",
+        "edit_type": "text_change"
+    },
+    "b4b77c91de77e4bd0abe2ca27853ce1f": {
+        "prompt": "Replace the text 'TOES' with 'NIKE'",
+        "id": "fullset/text_change/en/b4b77c91de77e4bd0abe2ca27853ce1f.png",
+        "edit_type": "text_change"
+    },
+    "0139f41b56bc537daabf684856d2ddb5": {
+        "prompt": "Replace the text 'SHEFFIELD' with 'EDINBURGH'",
+        "id": "fullset/text_change/en/0139f41b56bc537daabf684856d2ddb5.png",
+        "edit_type": "text_change"
+    },
+    "65657376e859f54717af9ee796759dc7": {
+        "prompt": "Replace the text 'DORIT' with 'DRINK'",
+        "id": "fullset/text_change/en/65657376e859f54717af9ee796759dc7.png",
+        "edit_type": "text_change"
+    },
+    "8ecdf91615e1599dd4a088d757fedd29": {
+        "prompt": "Replace the text 'CLASSIC MOJITO' with 'BABY MILKSHAKE'",
+        "id": "fullset/text_change/en/8ecdf91615e1599dd4a088d757fedd29.png",
+        "edit_type": "text_change"
+    },
+    "3e6dd180e9c8081cceae9fc8abbf9052": {
+        "prompt": "Replace the text 'SEVEN' with 'EIGHT'",
+        "id": "fullset/text_change/en/3e6dd180e9c8081cceae9fc8abbf9052.png",
+        "edit_type": "text_change"
+    },
+    "c86d92a8647bd78f5b8e25ff05e45d03": {
+        "prompt": "Add 'Written by' to the right of 'NANCY DOWD'",
+        "id": "fullset/text_change/en/c86d92a8647bd78f5b8e25ff05e45d03.png",
+        "edit_type": "text_change"
+    },
+    "d0c69c93397abe869ba14880d3933216": {
+        "prompt": "Replace the text 'JACQUES' with 'QUEENS'",
+        "id": "fullset/text_change/en/d0c69c93397abe869ba14880d3933216.png",
+        "edit_type": "text_change"
+    },
+    "140cbdcd2cc6adccb374b62d40f41b9f": {
+        "prompt": "Replace the text 'McCONAUGHEY' with 'McDonald'",
+        "id": "fullset/text_change/en/140cbdcd2cc6adccb374b62d40f41b9f.png",
+        "edit_type": "text_change"
+    },
+    "6e8087c04fbf254fb063f1500135ea36": {
+        "prompt": "Replace the text 'chicken' with 'beef'",
+        "id": "fullset/text_change/en/6e8087c04fbf254fb063f1500135ea36.png",
+        "edit_type": "text_change"
+    },
+    "58d1612b7520a747c616519e94c8f48c": {
+        "prompt": "Change the text '23' to '45'",
+        "id": "fullset/text_change/en/58d1612b7520a747c616519e94c8f48c.png",
+        "edit_type": "text_change"
+    },
+    "f58bb1fd98acc1888a7272d0d0f4f2a7": {
+        "prompt": "Replace the text 'SPA' with 'Relaxation Oasis'",
+        "id": "fullset/text_change/en/f58bb1fd98acc1888a7272d0d0f4f2a7.png",
+        "edit_type": "text_change"
+    },
+    "a9ae1402abe1d2624b7fce054edd7313": {
+        "prompt": "Change the text 'Bank' to 'Banks'",
+        "id": "fullset/text_change/en/a9ae1402abe1d2624b7fce054edd7313.png",
+        "edit_type": "text_change"
+    },
+    "ba7dd356656852097eeb86c78c1faae3": {
+        "prompt": "Replace the text 'Ziel' with 'Porte'",
+        "id": "fullset/text_change/en/ba7dd356656852097eeb86c78c1faae3.png",
+        "edit_type": "text_change"
+    },
+    "f00dfa62ea1474aeb985b5447dc8fa0c": {
+        "prompt": "Change the text 'FAIRGROUNDS' to 'PARKWAY'",
+        "id": "fullset/text_change/en/f00dfa62ea1474aeb985b5447dc8fa0c.png",
+        "edit_type": "text_change"
+    },
+    "131ed8c70ef386a4edf4faefe155a8c7": {
+        "prompt": "Replace the text 'SNACK' with 'TREAT'",
+        "id": "fullset/text_change/en/131ed8c70ef386a4edf4faefe155a8c7.png",
+        "edit_type": "text_change"
+    },
+    "ac80b138c5c796517a6fdc789a7d7c2b": {
+        "prompt": "Change the text 'petit' to 'grand'",
+        "id": "fullset/text_change/en/ac80b138c5c796517a6fdc789a7d7c2b.png",
+        "edit_type": "text_change"
+    },
+    "92181ff38321335cfb22e96fefd03188": {
+        "prompt": "Replace the text '32' with '33'",
+        "id": "fullset/text_change/en/92181ff38321335cfb22e96fefd03188.png",
+        "edit_type": "text_change"
+    },
+    "5efb5e25b477ca8d0f98f7774cb28ce0": {
+        "prompt": "Change the text 'COST' to 'FREE'",
+        "id": "fullset/text_change/en/5efb5e25b477ca8d0f98f7774cb28ce0.png",
+        "edit_type": "text_change"
+    },
+    "5052e9399738b1d713833bf3b1b55950": {
+        "prompt": "Change the text 'hotwind' to 'cool breeze'",
+        "id": "fullset/text_change/en/5052e9399738b1d713833bf3b1b55950.png",
+        "edit_type": "text_change"
+    },
+    "e25b84ada0cfe0c12eaf82e0b7dbecf3": {
+        "prompt": "Change the text 'ONTARIO' to 'ONTARO'",
+        "id": "fullset/text_change/en/e25b84ada0cfe0c12eaf82e0b7dbecf3.png",
+        "edit_type": "text_change"
+    },
+    "7b61056fbc47ace12e3ae5568e0c67ed": {
+        "prompt": "Replace the text'FERMENT' with 'delicious treats'",
+        "id": "fullset/text_change/en/7b61056fbc47ace12e3ae5568e0c67ed.png",
+        "edit_type": "text_change"
+    },
+    "11e198f3745e800957d19098cf29c99b": {
+        "prompt": "Change the text '500' to '250'",
+        "id": "fullset/text_change/en/11e198f3745e800957d19098cf29c99b.png",
+        "edit_type": "text_change"
+    },
+    "73fa218afee74ffe8cc7d1695cef644e": {
+        "prompt": "Change the text 'SCHOOL' to 'COLLEGE'",
+        "id": "fullset/text_change/en/73fa218afee74ffe8cc7d1695cef644e.png",
+        "edit_type": "text_change"
+    },
+    "966bd852686133547ab7283bec3293ab": {
+        "prompt": "Replace the text 'STOP' with 'Caution'",
+        "id": "fullset/text_change/en/966bd852686133547ab7283bec3293ab.png",
+        "edit_type": "text_change"
+    },
+    "079b25c601b74a2da8980461e0640324": {
+        "prompt": "Replace the text 'BAR' with 'Beach'",
+        "id": "fullset/text_change/en/079b25c601b74a2da8980461e0640324.png",
+        "edit_type": "text_change"
+    },
+    "510f45e1134cf029ef152acee6aaf6dd": {
+        "prompt": "Change the text 'ESTATE TACHEN' to 'Timeless Fashion'",
+        "id": "fullset/text_change/en/510f45e1134cf029ef152acee6aaf6dd.png",
+        "edit_type": "text_change"
+    },
+    "de1a98de20909a104b97fc444fff100d": {
+        "prompt": "Change the text 'SNP' to 'Call me'",
+        "id": "fullset/text_change/en/de1a98de20909a104b97fc444fff100d.png",
+        "edit_type": "text_change"
+    },
+    "bf5580adf9837959761bae65e343ff1f": {
+        "prompt": "Change the text '10000' to '18000'",
+        "id": "fullset/text_change/en/bf5580adf9837959761bae65e343ff1f.png",
+        "edit_type": "text_change"
+    },
+    "99500eadb2f363c2e26fcb501972c29f": {
+        "prompt": "Replace the text '95' with '123'",
+        "id": "fullset/text_change/en/99500eadb2f363c2e26fcb501972c29f.png",
+        "edit_type": "text_change"
+    },
+    "365da3516f60dde11e8a362ceffceb38": {
+        "prompt": "Little Yue, can you replace the character \"\u66f9\" with \"\u53f6\" inside?",
+        "id": "fullset/text_change/en/365da3516f60dde11e8a362ceffceb38.png",
+        "edit_type": "text_change"
+    },
+    "680b385ed8595ff5e4bfdd9fc7c5bf1a": {
+        "prompt": "Add the three characters \"\u4ff1\u4e50\u90e8\" to this image.",
+        "id": "fullset/text_change/en/680b385ed8595ff5e4bfdd9fc7c5bf1a.png",
+        "edit_type": "text_change"
+    },
+    "be45c39b3bcc9d082051c13b5300dde1": {
+        "prompt": "Help me insert the words \"\u65f6\u5149\u4e0e\u4f60\u5171\u5b88\u60c5\u957f\" into the image.",
+        "id": "fullset/text_change/en/be45c39b3bcc9d082051c13b5300dde1.png",
+        "edit_type": "text_change"
+    },
+    "d93126d2fa1e4d4a9ce9cc0cddee9826": {
+        "prompt": "Remove the text.",
+        "id": "fullset/text_change/en/d93126d2fa1e4d4a9ce9cc0cddee9826.png",
+        "edit_type": "text_change"
+    },
+    "947855a8a1e0954deaa4dc826e9519db": {
+        "prompt": "Replace the tattoo text in the image with \"\u6b64\u751f\u4e0d\u8d1f\u4f60\".",
+        "id": "fullset/text_change/en/947855a8a1e0954deaa4dc826e9519db.png",
+        "edit_type": "text_change"
+    },
+    "27dba5cccc5a6d4ca877b83eb2ca374e": {
+        "prompt": "Based on this image, change the hidden \"New York\" text to \"ALEX\".",
+        "id": "fullset/text_change/en/27dba5cccc5a6d4ca877b83eb2ca374e.png",
+        "edit_type": "text_change"
+    },
+    "e206257f9c32db3dd3ad888865e3cefc": {
+        "prompt": "Remove the text in the background.",
+        "id": "fullset/text_change/en/e206257f9c32db3dd3ad888865e3cefc.png",
+        "edit_type": "text_change"
+    },
+    "3a9853285c981f9ec42fae7c9ba938f8": {
+        "prompt": "Can you change the text in the image to \"\u68a6\u79bb\u5f52\u65f6\"?",
+        "id": "fullset/text_change/en/3a9853285c981f9ec42fae7c9ba938f8.png",
+        "edit_type": "text_change"
+    },
+    "bdd77c99d54bdb14bcd48ee0ee3faafa": {
+        "prompt": "Replace the two characters \"\u8bf8\u66a8\" with \"\u6c38\u5eb7\".",
+        "id": "fullset/text_change/en/bdd77c99d54bdb14bcd48ee0ee3faafa.png",
+        "edit_type": "text_change"
+    },
+    "f684d93bdc97991873726762bec1d841": {
+        "prompt": "Can you remove the white text from this image?",
+        "id": "fullset/text_change/en/f684d93bdc97991873726762bec1d841.png",
+        "edit_type": "text_change"
+    },
+    "7b2f2dd979ca5149d4a6145bdfa64494": {
+        "prompt": "I want to change the letters on this piece of clothing to \"DIOR\".",
+        "id": "fullset/text_change/en/7b2f2dd979ca5149d4a6145bdfa64494.png",
+        "edit_type": "text_change"
+    },
+    "1bb0fbeaac87f6eff80e09d8fd409de1": {
+        "prompt": "Replace the \"\u62db\u8d22\u8fdb\u5b9d\" characters inside the circle with \"\u8d22\u6e90\u5e7f\u8fdb\".",
+        "id": "fullset/text_change/en/1bb0fbeaac87f6eff80e09d8fd409de1.png",
+        "edit_type": "text_change"
+    },
+    "5b8717b2209b784940f388864d5520f3": {
+        "prompt": "I need you to change \"2024\" to \"2025\" in this image and replace the \"\u9648\" character inside the topmost heart with \"\u534e\".",
+        "id": "fullset/text_change/en/5b8717b2209b784940f388864d5520f3.png",
+        "edit_type": "text_change"
+    },
+    "7eb55372802dfee7167a63e02728ca0e": {
+        "prompt": "Modify this image directly, do not generate a new one. Add the four characters \"\u5f77\u5fa8\u4e4b\u5203\" on the left side.",
+        "id": "fullset/text_change/en/7eb55372802dfee7167a63e02728ca0e.png",
+        "edit_type": "text_change"
+    },
+    "f148f938d38014e46b85664ffc617457": {
+        "prompt": "Remove the text from the image.",
+        "id": "fullset/text_change/en/f148f938d38014e46b85664ffc617457.png",
+        "edit_type": "text_change"
+    },
+    "0ca8f7be9422a84221920fccc6df2c4c": {
+        "prompt": "Add the four characters \"\u677e\u524d\u4e91\u9e64\" to this image in a calligraphy style.",
+        "id": "fullset/text_change/en/0ca8f7be9422a84221920fccc6df2c4c.png",
+        "edit_type": "text_change"
+    },
+    "3a016977fd14367ffc324d12e965e961": {
+        "prompt": "Describe this photo and replace the text with \"\u4eba\u751f\u9760\u81ea\u5df1\uff0c\u4e09\u5206\u5929\u6ce8\u5b9a\u4e03\u5206\u9760\u6253\u62fc\" in two lines.",
+        "id": "fullset/text_change/en/3a016977fd14367ffc324d12e965e961.png",
+        "edit_type": "text_change"
+    },
+    "62173ca26266af1845db7de6227a2e92": {
+        "prompt": "Remove the text and numbers below.",
+        "id": "fullset/text_change/en/62173ca26266af1845db7de6227a2e92.png",
+        "edit_type": "text_change"
+    },
+    "8382cb3ebe2cfce4315f9ec944ee12c2": {
+        "prompt": "Write the characters \"\u6df7\u6c8c\u7ec3\u5b9d\u51b3\" below this image.",
+        "id": "fullset/text_change/en/8382cb3ebe2cfce4315f9ec944ee12c2.png",
+        "edit_type": "text_change"
+    },
+    "a095ed1661fa125363bf59a47d8e52e4": {
+        "prompt": "Add the three characters \"\u82cd\u7a79\u51b3\" to this image.",
+        "id": "fullset/text_change/en/a095ed1661fa125363bf59a47d8e52e4.png",
+        "edit_type": "text_change"
+    },
+    "07c987a0a42790a9f5fed28a2bc6409e": {
+        "prompt": "Help me change \"\u73b0\u6b63\u70ed\u64ad\u4e2d\" to \"2025\u6625\u8282\u4e0a\u6620\"",
+        "id": "fullset/text_change/en/07c987a0a42790a9f5fed28a2bc6409e.png",
+        "edit_type": "text_change"
+    },
+    "75ba6223b2ab4de7f35cc0653d1df7da": {
+        "prompt": "Help me change the character after \"\u51b7\" to \"\u4e0d\u4e01\"",
+        "id": "fullset/text_change/en/75ba6223b2ab4de7f35cc0653d1df7da.png",
+        "edit_type": "text_change"
+    },
+    "f4f263ee11d7db0e483e1c10973e7b22": {
+        "prompt": "Help me change \"\u81f4\u9752\u6625\" to \"\u81f4\u5c11\u5e74\"",
+        "id": "fullset/text_change/en/f4f263ee11d7db0e483e1c10973e7b22.png",
+        "edit_type": "text_change"
+    },
+    "08fcf0e92aeea7e37931a6036a27174b": {
+        "prompt": "Change \"\u8fd9\u4e48\u4efb\u6027\" to \"\u8fd9\u4e48\u4efb\u610f\"",
+        "id": "fullset/text_change/en/08fcf0e92aeea7e37931a6036a27174b.png",
+        "edit_type": "text_change"
+    },
+    "8ed283fe0c51659c06fd1de14420b544": {
+        "prompt": "Add \"\u8d85\u7ea7\u5927\" before \"\u63a2\u79d8\"",
+        "id": "fullset/text_change/en/8ed283fe0c51659c06fd1de14420b544.png",
+        "edit_type": "text_change"
+    },
+    "db250fc8f05da99e1e9e57eb3ecd3920": {
+        "prompt": "Change \"\u5927\u8bdd\u897f\u6e38\" to \"\u795e\u8bdd\u61c2\u6e38\"",
+        "id": "fullset/text_change/en/db250fc8f05da99e1e9e57eb3ecd3920.png",
+        "edit_type": "text_change"
+    },
+    "a2a41ebb84be1126248d9cf65d8ed078": {
+        "prompt": "Help me change \"\u884c\u52a8\" to \"\u51fa\u51fb\"",
+        "id": "fullset/text_change/en/a2a41ebb84be1126248d9cf65d8ed078.png",
+        "edit_type": "text_change"
+    },
+    "11f41f16aebac2a07f24432b8cbeefd7": {
+        "prompt": "Delete \"\u53e4\u5821\u60ca\u9b42\"",
+        "id": "fullset/text_change/en/11f41f16aebac2a07f24432b8cbeefd7.png",
+        "edit_type": "text_change"
+    },
+    "4165fe6296cc4e75c9055794e5a13a10": {
+        "prompt": "Remove \"\u6500\u5ca9\"",
+        "id": "fullset/text_change/en/4165fe6296cc4e75c9055794e5a13a10.png",
+        "edit_type": "text_change"
+    },
+    "b485856ffb2107eaf50b4b437dacbea3": {
+        "prompt": "Change \"\u63a2\u5bfb\" to  \"\u627e\u5230\"",
+        "id": "fullset/text_change/en/b485856ffb2107eaf50b4b437dacbea3.png",
+        "edit_type": "text_change"
+    },
+    "90c04ff64d248a824f0cd65936a99bf0": {
+        "prompt": "Write \"\u62ac\u9ad880\u516c\u5206\" on the underline",
+        "id": "fullset/text_change/en/90c04ff64d248a824f0cd65936a99bf0.png",
+        "edit_type": "text_change"
+    },
+    "ac11359a70c3950fce81d6c4a9665875": {
+        "prompt": "Remove \"\u79d8\u5236\u9ebb\u9ebb\u9c7c\" ",
+        "id": "fullset/text_change/en/ac11359a70c3950fce81d6c4a9665875.png",
+        "edit_type": "text_change"
+    },
+    "8155a4b0727c1a4176f5f70cc0810562": {
+        "prompt": "Remove the text \"\u621a\u98ce\u86cb\u7cd5\" and rewrite as \"\u9e21\u86cb\u86cb\u7cd5\"",
+        "id": "fullset/text_change/en/8155a4b0727c1a4176f5f70cc0810562.png",
+        "edit_type": "text_change"
+    },
+    "d9ea1c0d881af0ade68721357d453c64": {
+        "prompt": "Write 'SMILE' on the blackboard",
+        "id": "fullset/text_change/en/d9ea1c0d881af0ade68721357d453c64.png",
+        "edit_type": "text_change"
+    },
+    "ba63cec563b66911faa74a1c3ba4850a": {
+        "prompt": "Add 'Top 1' in the middle, with the '1' especially large",
+        "id": "fullset/text_change/en/ba63cec563b66911faa74a1c3ba4850a.png",
+        "edit_type": "text_change"
+    },
+    "7d283f97ec3592b175588efbd534061a": {
+        "prompt": "Change '2022' to '2024'",
+        "id": "fullset/text_change/en/7d283f97ec3592b175588efbd534061a.png",
+        "edit_type": "text_change"
+    },
+    "7c7d40daf262d8e0df903af3e0917c03": {
+        "prompt": "Remove 'copy chief from random house'",
+        "id": "fullset/text_change/en/7c7d40daf262d8e0df903af3e0917c03.png",
+        "edit_type": "text_change"
+    },
+    "058a3b3c422dcefddb8deb2c61ded83d": {
+        "prompt": "Remove the text and add  \"\u6211\u7231\u4f60\"",
+        "id": "fullset/text_change/en/058a3b3c422dcefddb8deb2c61ded83d.png",
+        "edit_type": "text_change"
+    },
+    "7ccd6d8d72339d7c94560300dce346f4": {
+        "prompt": "Add 'GAMES' in the center of the image",
+        "id": "fullset/text_change/en/7ccd6d8d72339d7c94560300dce346f4.png",
+        "edit_type": "text_change"
+    },
+    "58cf4f4a16cd16ffef55c170804be136": {
+        "prompt": "Write  \"\u6211\u4eec\u6b22\u8fce\u4f60\" in the bottom left corner",
+        "id": "fullset/text_change/en/58cf4f4a16cd16ffef55c170804be136.png",
+        "edit_type": "text_change"
+    },
+    "3549b73c635e7f5d67d728bd582daffd": {
+        "prompt": "change the weather to snowstorm",
+        "id": "fullset/tone_transfer/en/3549b73c635e7f5d67d728bd582daffd.png",
+        "edit_type": "tone_transfer"
+    },
+    "8168e81061f790fb34c9f4c81ed34d90": {
+        "prompt": "Apply an HDR filter to brighten the image.",
+        "id": "fullset/tone_transfer/en/8168e81061f790fb34c9f4c81ed34d90.png",
+        "edit_type": "tone_transfer"
+    },
+    "1db07f0d277222e32913bff2681faebb": {
+        "prompt": "Make the image brighter.",
+        "id": "fullset/tone_transfer/en/1db07f0d277222e32913bff2681faebb.png",
+        "edit_type": "tone_transfer"
+    },
+    "d83dad4db56f5c6c1270708a74311725": {
+        "prompt": "change the weather to snowy",
+        "id": "fullset/tone_transfer/en/d83dad4db56f5c6c1270708a74311725.png",
+        "edit_type": "tone_transfer"
+    },
+    "ad3ad5f80040286822ec035c8fcf6c0f": {
+        "prompt": "change the time to nighttime",
+        "id": "fullset/tone_transfer/en/ad3ad5f80040286822ec035c8fcf6c0f.png",
+        "edit_type": "tone_transfer"
+    },
+    "2c7d8b151daa5920c523e40d1dda0d5e": {
+        "prompt": "change the weather to heavy rain",
+        "id": "fullset/tone_transfer/en/2c7d8b151daa5920c523e40d1dda0d5e.png",
+        "edit_type": "tone_transfer"
+    },
+    "e6b1eb3b883e718a85581c0d36727f24": {
+        "prompt": "Make the image brighter.",
+        "id": "fullset/tone_transfer/en/e6b1eb3b883e718a85581c0d36727f24.png",
+        "edit_type": "tone_transfer"
+    },
+    "b95f07c147ce5d8afd6556b1acd5a902": {
+        "prompt": "change the time to night",
+        "id": "fullset/tone_transfer/en/b95f07c147ce5d8afd6556b1acd5a902.png",
+        "edit_type": "tone_transfer"
+    },
+    "2e77d56a387ce48d9467a73c128635c4": {
+        "prompt": "make the weather snow",
+        "id": "fullset/tone_transfer/en/2e77d56a387ce48d9467a73c128635c4.png",
+        "edit_type": "tone_transfer"
+    },
+    "47e6851356aed262881f4af848b27b8b": {
+        "prompt": "Add a background blur filter.",
+        "id": "fullset/tone_transfer/en/47e6851356aed262881f4af848b27b8b.png",
+        "edit_type": "tone_transfer"
+    },
+    "ef5b74bc64af4113749e170f4624a1e4": {
+        "prompt": "change the season to winter",
+        "id": "fullset/tone_transfer/en/ef5b74bc64af4113749e170f4624a1e4.png",
+        "edit_type": "tone_transfer"
+    },
+    "b728006d225ca8acf59cb8bd958d79c4": {
+        "prompt": "Make the image brighter.",
+        "id": "fullset/tone_transfer/en/b728006d225ca8acf59cb8bd958d79c4.png",
+        "edit_type": "tone_transfer"
+    },
+    "6878b2aaea42391eb6d9d5a004dfba5a": {
+        "prompt": "Apply a suitable filter for this image.",
+        "id": "fullset/tone_transfer/en/6878b2aaea42391eb6d9d5a004dfba5a.png",
+        "edit_type": "tone_transfer"
+    },
+    "42ece5249116fbad305140e068b118b3": {
+        "prompt": "change the weather to foggy",
+        "id": "fullset/tone_transfer/en/42ece5249116fbad305140e068b118b3.png",
+        "edit_type": "tone_transfer"
+    },
+    "82713e857fa4a3972bd3bd560ad45d70": {
+        "prompt": "change the weather to snow",
+        "id": "fullset/tone_transfer/en/82713e857fa4a3972bd3bd560ad45d70.png",
+        "edit_type": "tone_transfer"
+    },
+    "eded7f39803839235a11c20fe72c67f5": {
+        "prompt": "Restore and colorize this old photo in high definition.",
+        "id": "fullset/tone_transfer/en/eded7f39803839235a11c20fe72c67f5.png",
+        "edit_type": "tone_transfer"
+    },
+    "051ce492fd93f74add67a5fea2ec1f20": {
+        "prompt": "change the time to prehistoric era",
+        "id": "fullset/tone_transfer/en/051ce492fd93f74add67a5fea2ec1f20.png",
+        "edit_type": "tone_transfer"
+    },
+    "acd9a6d08c0a18ee251de9831251edf5": {
+        "prompt": "change the weather to snow",
+        "id": "fullset/tone_transfer/en/acd9a6d08c0a18ee251de9831251edf5.png",
+        "edit_type": "tone_transfer"
+    },
+    "7bfbebfb0521da039f7ec26aec330ec9": {
+        "prompt": "change the weather to foggy",
+        "id": "fullset/tone_transfer/en/7bfbebfb0521da039f7ec26aec330ec9.png",
+        "edit_type": "tone_transfer"
+    },
+    "d231513192c28e8f14d79a41fd648e9a": {
+        "prompt": "Apply a filter to make the image brighter.",
+        "id": "fullset/tone_transfer/en/d231513192c28e8f14d79a41fd648e9a.png",
+        "edit_type": "tone_transfer"
+    },
+    "8907d6eacd7b91ee4cf8a157802a53a5": {
+        "prompt": "Colorize this photo without altering the facial structure.",
+        "id": "fullset/tone_transfer/en/8907d6eacd7b91ee4cf8a157802a53a5.png",
+        "edit_type": "tone_transfer"
+    },
+    "7bea5378467e211452fb8289e7da71be": {
+        "prompt": "Apply a suitable filter to this image.",
+        "id": "fullset/tone_transfer/en/7bea5378467e211452fb8289e7da71be.png",
+        "edit_type": "tone_transfer"
+    },
+    "277a863acdd110cc9550f16da754a93d": {
+        "prompt": "Enhance and colorize this photo to make the subject more vivid.",
+        "id": "fullset/tone_transfer/en/277a863acdd110cc9550f16da754a93d.png",
+        "edit_type": "tone_transfer"
+    },
+    "1846b247da04c0fe6c63d8166e100a6a": {
+        "prompt": "Restore and colorize this old photo in high definition.",
+        "id": "fullset/tone_transfer/en/1846b247da04c0fe6c63d8166e100a6a.png",
+        "edit_type": "tone_transfer"
+    },
+    "e7652e4858f7d1f3b86a0de28c6cb8c1": {
+        "prompt": "Restore and colorize the image.",
+        "id": "fullset/tone_transfer/en/e7652e4858f7d1f3b86a0de28c6cb8c1.png",
+        "edit_type": "tone_transfer"
+    },
+    "f57ec87ccf7bc1788dfd5be1da4dbe7a": {
+        "prompt": "My photo looks a bit yellowish; please adjust the color.",
+        "id": "fullset/tone_transfer/en/f57ec87ccf7bc1788dfd5be1da4dbe7a.png",
+        "edit_type": "tone_transfer"
+    },
+    "9d26293b9cc3ffd9df59117abbd9783d": {
+        "prompt": "Restore and colorize the image.",
+        "id": "fullset/tone_transfer/en/9d26293b9cc3ffd9df59117abbd9783d.png",
+        "edit_type": "tone_transfer"
+    },
+    "4b0700347e2ea2aef8f27a2cc2b9c370": {
+        "prompt": "Enhance it to super high quality.",
+        "id": "fullset/tone_transfer/en/4b0700347e2ea2aef8f27a2cc2b9c370.png",
+        "edit_type": "tone_transfer"
+    },
+    "dbc15e88af0839a1b60801291c31b3c8": {
+        "prompt": "Colorize the photo to make it clearer.",
+        "id": "fullset/tone_transfer/en/dbc15e88af0839a1b60801291c31b3c8.png",
+        "edit_type": "tone_transfer"
+    },
+    "5c01bd878c03ec2e5c6060f7a133b2f9": {
+        "prompt": "Adjust the colors to make the image look brighter.",
+        "id": "fullset/tone_transfer/en/5c01bd878c03ec2e5c6060f7a133b2f9.png",
+        "edit_type": "tone_transfer"
+    },
+    "c09e9a0c550da145d9afe12c543b0048": {
+        "prompt": "Enhance the clarity of this photo.",
+        "id": "fullset/tone_transfer/en/c09e9a0c550da145d9afe12c543b0048.png",
+        "edit_type": "tone_transfer"
+    },
+    "94ab9306a1ea70be534d9ef36f3a19b0": {
+        "prompt": "Change the nighttime scene in the image to daytime.",
+        "id": "fullset/tone_transfer/en/94ab9306a1ea70be534d9ef36f3a19b0.png",
+        "edit_type": "tone_transfer"
+    },
+    "02f9043a04c5691315d5d690193c955e": {
+        "prompt": "Apply an HDR filter to brighten the image.",
+        "id": "fullset/tone_transfer/en/02f9043a04c5691315d5d690193c955e.png",
+        "edit_type": "tone_transfer"
+    },
+    "68afffd7d086ad91fb4d45d372418fea": {
+        "prompt": "Make this image clearer.",
+        "id": "fullset/tone_transfer/en/68afffd7d086ad91fb4d45d372418fea.png",
+        "edit_type": "tone_transfer"
+    },
+    "4167a37565e731478db17e138cbb6b8a": {
+        "prompt": "Enhance the child\u2019s face in the image to make it sharper.",
+        "id": "fullset/tone_transfer/en/4167a37565e731478db17e138cbb6b8a.png",
+        "edit_type": "tone_transfer"
+    },
+    "3053a9287013dac68056dd7aefdced02": {
+        "prompt": "Apply a filter adjustment.",
+        "id": "fullset/tone_transfer/en/3053a9287013dac68056dd7aefdced02.png",
+        "edit_type": "tone_transfer"
+    },
+    "220cbf1b8bf55b56873b0aec63a1e6bc": {
+        "prompt": "Improve the photo's clarity and apply beautification.",
+        "id": "fullset/tone_transfer/en/220cbf1b8bf55b56873b0aec63a1e6bc.png",
+        "edit_type": "tone_transfer"
+    },
+    "cea51a1910ce86cd42a393ba7417daf3": {
+        "prompt": "Enhance the image quality.",
+        "id": "fullset/tone_transfer/en/cea51a1910ce86cd42a393ba7417daf3.png",
+        "edit_type": "tone_transfer"
+    },
+    "f4ecf30b68ba88536a28f899b87e5af1": {
+        "prompt": "Can you restore this photo for me?",
+        "id": "fullset/tone_transfer/en/f4ecf30b68ba88536a28f899b87e5af1.png",
+        "edit_type": "tone_transfer"
+    },
+    "2a52ea99c0051bff29020048a0daca28": {
+        "prompt": "Adjust the color of this image.",
+        "id": "fullset/tone_transfer/en/2a52ea99c0051bff29020048a0daca28.png",
+        "edit_type": "tone_transfer"
+    }
+}

@@ -1,0 +1,6 @@
+/home/ywan1332/efs/wyh/gpt-edit/hqedit/edit,/opt/dlami/nvme/wyh/code/gpt-image-edit/json/hqedit_gpt_edit.json,false
+/home/ywan1332/efs/wyh/gpt-edit/hqedit/generate,/opt/dlami/nvme/wyh/code/gpt-image-edit/json/hqedit_gpt_generate.json,false
+/home/ywan1332/efs/wyh/gpt-edit/omniedit,/opt/dlami/nvme/wyh/code/gpt-image-edit/json/omniedit_gpt.json,false
+/home/ywan1332/efs/wyh/gpt-edit/omniedit,/opt/dlami/nvme/wyh/code/gpt-image-edit/json/omniedit_gpt_rewrite.json,false
+/home/ywan1332/efs/wyh/gpt-edit/omniedit/complex-edit,/opt/dlami/nvme/wyh/code/gpt-image-edit/json/complexedit_gpt.json,false
+/home/ywan1332/efs/wyh/gpt-edit/ultraedit,/opt/dlami/nvme/wyh/code/gpt-image-edit/json/ultraedit_gpt.json,false

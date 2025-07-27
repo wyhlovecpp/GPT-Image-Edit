@@ -1,0 +1,40 @@
+transformers==4.50.0
+tokenizers
+sentencepiece==0.1.99
+shortuuid
+accelerate==1.5.2
+peft==0.10.0
+bitsandbytes
+pydantic==2.8.2
+markdown2[all]
+numpy==1.26.4
+scikit-learn==1.2.2
+gradio==5.29.1
+gradio-client==1.10.1 
+pydantic-core==2.20.1
+requests
+httpx==0.24.1
+uvicorn
+fastapi==0.115.2
+einops==0.6.1
+einops-exts==0.0.4
+timm==0.6.13
+diffusers==0.32.2
+megfile
+torchdiffeq
+datasets
+protobuf==3.20.2
+deepspeed==0.14.5; sys_platform != 'win32'
+ninja
+wandb==0.19.8
+prodigyopt
+paddleocr==2.7.0.3
+paddlepaddle==2.5.2
+omegaconf==2.3.0
+qwen-vl-utils
+starlette==0.40.0
+torch==2.5.1
+torchvision==0.20.1
+huggingface_hub
+triton ; sys_platform != 'win32'
+triton-windows ; sys_platform == 'win32'
