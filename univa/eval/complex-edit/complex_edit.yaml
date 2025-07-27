@@ -1,0 +1,20 @@
+pretrained_lvlm_name_or_path: /opt/dlami/nvme/wyh/code/fluxkontext_qwenvl/checkpoints/final_test_kontext/checkpoint-10000/univa
+pretrained_denoiser_name_or_path: /opt/dlami/nvme/wyh/code/UniWorld-V1/checkpoints/FLUX.1-dev
+joint_with_t5: true
+
+seed: 42
+allow_tf32: false
+
+output_dir: /opt/dlami/nvme/wyh/code/fluxkontext_qwenvl/results_univorld_batch8/complex_edit
+
+num_images_per_prompt: 1
+num_inference_steps: 28
+guidance_scale: 3.5
+height: 1024
+width: 1024
+min_pixels: 200704
+max_pixels: 254016
+
+# Complex-Edit specific
+complexity: 8
+image_type: "real" 
