@@ -258,13 +258,5 @@ cd univa/eval/omnicontext
       url={https://arxiv.org/abs/2507.21033}, 
 }
 ```
-```bibtex
-@article{lin2025uniworld,
-  title={UniWorld: High-Resolution Semantic Encoders for Unified Visual Understanding and Generation},
-  author={Lin, Bin and Li, Zongjian and Cheng, Xinhua and Niu, Yuwei and Ye, Yang and He, Xianyi and Yuan, Shenghai and Yu, Wangbo and Wang, Shaodong and Ge, Yunyang and others},
-  journal={arXiv preprint arXiv:2506.03147},
-  year={2025}
-}
-```
 
 
