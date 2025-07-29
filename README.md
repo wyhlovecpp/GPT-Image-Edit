@@ -28,7 +28,6 @@ pip install flash_attn --no-build-isolation
 
 2.Download pretrained checkpoint
 ```bash
-MODEL_PATH="model"
 huggingface-cli download --resume-download UCSC-VLAA/gpt-image-edit-training --local-dir ${MODEL_PATH}
 huggingface-cli download --resume-download black-forest-labs/FLUX.1-Kontext-dev --local-dir ${FLUX_PATH}
 ```
