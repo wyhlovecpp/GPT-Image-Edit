@@ -1,6 +1,6 @@
 # 📣 News
-
-* **[2025.07.27]** 🤗 We release GPT-Image-Edit, a state-of-the-art image editing model with 1.5M high-quality editing samples. All [data](https://huggingface.co/datasets/UCSC-VLAA/GPT-Image-Edit-1.5M), [models](https://huggingface.co/UCSC-VLAA/gpt-image-edit-training), training code and evaluation code are open-sourced. Our code is based on [UniWorld-V1](https://github.com/PKU-YuanGroup/UniWorld-V1), Thanks to the authors of UniWorld-V1. Checking our [report](https://arxiv.org/abs/2507.21033) for more details. Welcome to **watch** 👀 this repository for the latest updates.
+* **[2025.07.30]** 🎆 We upload [benchmark results](https://huggingface.co/datasets/UCSC-VLAA/gpt-image-edit-benchmark-results) and the FluxKontext fine-tune-only T5 [checkpoint](https://huggingface.co/UCSC-VLAA/gpt-image-edit-finetune-t5-only). 
+* **[2025.07.27]** 🎆 We release GPT-Image-Edit, a state-of-the-art image editing model with 1.5M high-quality editing samples. All [data](https://huggingface.co/datasets/UCSC-VLAA/GPT-Image-Edit-1.5M), [models](https://huggingface.co/UCSC-VLAA/gpt-image-edit-training), training code and evaluation code are open-sourced. Our code is based on [UniWorld-V1](https://github.com/PKU-YuanGroup/UniWorld-V1), Thanks to the authors of UniWorld-V1. Checking our [report](https://arxiv.org/abs/2507.21033) for more details. Welcome to **watch** 👀 this repository for the latest updates.
 
 
 
