@@ -8,11 +8,17 @@ pip install megfile openai
 ```
 
 ## Prepare Source Images
-Prepare the original image and metadata json following the example code in `step0_generate_image_example.py`
+
+```bash
+cd univa/eval/gedit
+git clone https://huggingface.co/datasets/wyhhey/gedit-asset
+```
+
+<!-- Prepare the original image and metadata json following the example code in `step0_generate_image_example.py`
 
 ```bash
 GEDIT_ASSET="/opt/dlami/nvme/wyh/code/fluxkontext_qwenvl/univa/eval/gedit/gedit_asset"
-python step0_prepare_gedit.py --save_path ${GEDIT_ASSET} --json_file_path gedit_edit.json
+python step0_prepare_gedit.py --save_path ${GEDIT_ASSET} --json_file_path gedit_edit.json -->
 ```
 
 The file directory structure of the original image：
