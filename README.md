@@ -248,14 +248,11 @@ cd univa/eval/omnicontext
 
 # ✏️ Citing
 ```bibtex
-@misc{wang2025gptimageedit15mmillionscalegptgeneratedimage,
-      title={GPT-IMAGE-EDIT-1.5M: A Million-Scale, GPT-Generated Image Dataset}, 
-      author={Yuhan Wang and Siwei Yang and Bingchen Zhao and Letian Zhang and Qing Liu and Yuyin Zhou and Cihang Xie},
-      year={2025},
-      eprint={2507.21033},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV},
-      url={https://arxiv.org/abs/2507.21033}, 
+@article{wang2025gpt,
+  title={GPT-IMAGE-EDIT-1.5 M: A Million-Scale, GPT-Generated Image Dataset},
+  author={Wang, Yuhan and Yang, Siwei and Zhao, Bingchen and Zhang, Letian and Liu, Qing and Zhou, Yuyin and Xie, Cihang},
+  journal={arXiv preprint arXiv:2507.21033},
+  year={2025}
 }
 ```
 
