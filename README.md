@@ -151,8 +151,8 @@ cd univa/eval/imgedit
 
 
 ```bash
-cd univa/eval/gdit
-# follow the instruction in univa/eval/gdit/README.md
+cd univa/eval/gedit
+# follow the instruction in univa/eval/gedit/README.md
 ```
 
 </p></details>
