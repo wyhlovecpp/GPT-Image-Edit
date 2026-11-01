@@ -250,6 +250,20 @@ The results below correspond to the original GPT-Image-Edit-1.5M release.
 * Project-authored code is available under the [Apache License 2.0](LICENSE). Third-party components retain their own licenses; see [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md). The FLUX Kontext weights are subject to the [FLUX.1 Kontext [dev] Non-Commercial License](https://huggingface.co/black-forest-labs/FLUX.1-Kontext-dev/blob/main/LICENSE.md). Dataset terms are described in the [dataset card](https://huggingface.co/datasets/UCSC-VLAA/GPT-Image-Edit-1.5M).
 
 # ✏️ Citing
+
+The NeurIPS 2026 paper studies the quality-controlled GPT-Image-Edit-1M subset of the GPT-Image-Edit-1.5M release. Please cite the paper when using its curation and audit materials:
+
+```bibtex
+@inproceedings{wang2026gptimageedit1m,
+  title={GPT-Image-Edit-1M: An Auditable Million-Scale Dataset for Instruction-Guided Image Editing},
+  author={Wang, Yuhan and Yang, Siwei and Zhao, Bingchen and Zhang, Letian and Mao, Jiawei and Wu, Juncheng and Zheng, Zeyu and Yao, Huaxiu and Liu, Qing and Xie, Cihang and Zhou, Yuyin},
+  booktitle={Neural Information Processing Systems, Evaluations and Datasets Track},
+  year={2026}
+}
+```
+
+For the original GPT-Image-Edit-1.5M release, please also cite:
+
 ```bibtex
 @article{wang2025gpt,
   title={GPT-IMAGE-EDIT-1.5 M: A Million-Scale, GPT-Generated Image Dataset},
