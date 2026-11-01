@@ -1,6 +1,7 @@
 # 📣 News
+* **[2026.09.24]** 🎉 [GPT-Image-Edit-1M: An Auditable Million-Scale Dataset for Instruction-Guided Image Editing](https://huggingface.co/datasets/UCSC-VLAA/GPT-Image-Edit-1.5M) has been accepted to the NeurIPS 2026 Evaluations and Datasets Track.
 * **[2025.07.30]** 🎆 We upload [benchmark results](https://huggingface.co/datasets/UCSC-VLAA/gpt-image-edit-benchmark-results) and the FluxKontext fine-tune-only T5 [checkpoint](https://huggingface.co/UCSC-VLAA/gpt-image-edit-finetune-t5-only). 
-* **[2025.07.27]** 🎆 We release GPT-Image-Edit, a state-of-the-art image editing model with 1.5M high-quality editing samples. All [data](https://huggingface.co/datasets/UCSC-VLAA/GPT-Image-Edit-1.5M), [models](https://huggingface.co/UCSC-VLAA/gpt-image-edit-training), training code and evaluation code are open-sourced. Our code is based on [UniWorld-V1](https://github.com/PKU-YuanGroup/UniWorld-V1), Thanks to the authors of UniWorld-V1. Checking our [report](https://arxiv.org/abs/2507.21033) for more details. Welcome to **watch** 👀 this repository for the latest updates.
+* **[2025.07.27]** 🎆 We release GPT-Image-Edit, a state-of-the-art image editing model with 1.5M high-quality editing samples. The original release includes [data](https://huggingface.co/datasets/UCSC-VLAA/GPT-Image-Edit-1.5M), [models](https://huggingface.co/UCSC-VLAA/gpt-image-edit-training), training code and evaluation code. Our code is based on [UniWorld-V1](https://github.com/PKU-YuanGroup/UniWorld-V1), Thanks to the authors of UniWorld-V1. Checking our [report](https://arxiv.org/abs/2507.21033) for more details. Welcome to **watch** 👀 this repository for the latest updates.
 
 
 
@@ -181,6 +182,8 @@ cd univa/eval/omnicontext
 
 # 📊 Benchmarks
 
+The results below correspond to the original GPT-Image-Edit-1.5M release.
+
 ### GEdit-EN-full
 | Model | BG<br>Change | Color<br>Alt. | Mat.<br>Mod. | Motion | Portrait | Style | Add | Remove | Replace | Text | Tone | Avg |
 |:--|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
@@ -244,7 +247,7 @@ cd univa/eval/omnicontext
 
 
 # 🔒 License
-* See [LICENSE](LICENSE) for details. The FLUX Kontext weights fall under the [FLUX.1 Kontext [dev] Non-Commercial License](https://huggingface.co/black-forest-labs/FLUX.1-Kontext-dev/blob/main/LICENSE.md).
+* Project-authored code is available under the [Apache License 2.0](LICENSE). Third-party components retain their own licenses; see [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md). The FLUX Kontext weights are subject to the [FLUX.1 Kontext [dev] Non-Commercial License](https://huggingface.co/black-forest-labs/FLUX.1-Kontext-dev/blob/main/LICENSE.md). Dataset terms are described in the [dataset card](https://huggingface.co/datasets/UCSC-VLAA/GPT-Image-Edit-1.5M).
 
 # ✏️ Citing
 ```bibtex
